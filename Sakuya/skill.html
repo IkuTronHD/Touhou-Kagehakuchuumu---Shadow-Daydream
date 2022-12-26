@@ -1,0 +1,294 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+	
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta http-equiv="content-style-type" content="text/css">
+		<meta http-equiv="Content-Script-Type" content="text/javascript">
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<title>Touhou X Ikemen (Wiki) - Habilidades Especiales</title>
+		<link rel="stylesheet" type="text/css" href="common.css">
+		<script type="text/javascript" src="script.js"></script>
+	</head>
+	
+	<body onLoad="init()">
+		<div id="frame">
+			<div id="header">
+			</div>
+			<div id="main">
+				<div id="left-region">
+				</div>
+				<div id="right-region">
+					<h1>
+						Habilidades Especiales
+					</h1>
+					<div id="contents"></div>
+					<div class="indent">
+						<h2>
+							Habilidades
+						</h2>
+						<div>
+							<h3>
+								5X - Magic Star Sword (Any)
+							</h3>
+								<h4>
+									Vista Previa - 5X
+								</h4>
+										<img src="./img/skill_5x.png" alt="Magic Star Sword">
+								<table>
+									<tr>
+										<th>Damage Base</th><th>Frame Adv.</th><th>Descripción</th>
+									</tr>
+									<tr>
+										<td>34</td><td>+3</td><td>Proyectiles rápidos que hacen buen daño pero solo avanzan.<br>Aplican una gran cantidad de carga cuando se usan mientras el tiempo está detenido, por lo que es posible que no desee usarlos en ese momento.</td>
+									</tr>
+								</table>
+							<h3>
+								26X - Intervention (Any)
+							</h3>
+								<h4>
+									Vista Previa - 26X
+								</h4>
+									<img src="./img/skill_26x.png" alt="Intervention">
+									<table>
+									<tr>
+										<th>Damage Base</th><th>Frame Adv.</th><th>Descripción</th>
+									</tr>
+									<tr>
+										<td>75</td><td>+24</td><td>Lanza cuchillos rápidamente que cubren un área más grande.<br>El daño no es tan bueno pero es muy efectivo para perturbar la estrategia del oponente.</td>
+									</tr>
+								</table>
+							<h3>
+								24X - Aimed Ricochet (Standing)
+							</h3>
+								<h4>
+									Vista Previa - 24X
+								</h4>
+									<img src="./img/skill_24x.png" alt="Aimed Ricochet">
+									<table>
+									<tr>
+										<th>Damage Base</th><th>Frame Adv.</th><th>Descripción</th>
+									</tr>
+									<tr>
+										<td>50/85</td><td>+12/+25</td><td>Lanza un cuchillo que rebota dos veces, luego gira hacia el oponente y acelera.<br>Si golpea antes, el daño es menor.</td>
+									</tr>
+								</table>
+							<h3>
+								26X - Clock Corpse (Standing)
+							</h3>
+								<h4>
+									Vista Previa - 22X
+								</h4>
+									<img src="./img/skill_22x.png" alt="Clock Corpse">
+									<table>
+									<tr>
+										<th>Damage Base</th><th>Frame Adv.</th><th>Descripción</th>
+									</tr>
+									<tr>
+										<td>98</td><td>+19</td><td>Coloque cuchillos alrededor del oponente congelado en el tiempo para obligarlo a moverse o bloquear.</td>
+									</tr>
+								</table>
+							<h3>
+								2X - Legcutter (Standing)
+							</h3>
+								<h4>
+									Vista Previa - 2X
+								</h4>
+									<img src="./img/skill_2x.png" alt="Legcutter">
+									<table>
+									<tr>
+										<th>Damage Base</th><th>Frame Adv.</th><th>Descripción</th>
+									</tr>
+									<tr>
+										<td>48</td><td>+11</td><td>Un ataque de proyectil bajo que es indefendible mientras está de pie.<br>Es más débil que Magic Star Sword y hay menos cuchillos.</td>
+									</tr>
+								</table>
+							<h3>
+								5Y - Bounce No-Bounce (Standing)
+							</h3>
+								<h4>
+									Vista Previa - 5Y
+								</h4>
+									<img src="./img/skill_5y.png" alt="Bounce No-Bounce">
+									<table>
+									<tr>
+										<th>Damage Base</th><th>Frame Adv.</th><th>Descripción</th>
+									</tr>
+									<tr>
+										<td>75</td><td>+17</td><td>Cantidad sobre calidad, una gran cantidad de cuchillos débiles.<br>Debido a las limitaciones del motor, no puedes tener más de 24 de estos cuchillos activos a la vez.</td>
+									</tr>
+								</table>
+							<h3>
+								2Y - Ceiling Bonuce (Standing)
+							</h3>
+								<h4>
+									Vista Previa - 2Y
+								</h4>
+									<img src="./img/skill_2y.png" alt="Ceiling Bonuce">
+									<table>
+									<tr>
+										<th>Damage Base</th><th>Frame Adv.</th><th>Descripción</th>
+									</tr>
+									<tr>
+										<td>100</td><td>+17</td><td>Igual que arriba, pero los cuchillos se dirigen mucho más hacia arriba.<br>Debido a las limitaciones del motor, no puedes tener más de 24 de estos cuchillos activos a la vez.</td>
+									</tr>
+								</table>
+							<h3>
+								24Y - Sense of Thrown Edge (Standing)
+							</h3>
+								<h4>
+									Vista Previa - 24Y
+								</h4>
+									<img src="./img/skill_24y.png" alt="Sense of Thrown Edge">
+									<table>
+									<tr>
+										<th>Damage Base</th><th>Frame Adv.</th><th>Descripción</th>
+									</tr>
+									<tr>
+										<td>80</td><td>+19</td><td>Lanza cuchillos hacia adelante, pero congélalos a tiempo durante 3 segundos.</td>
+									</tr>
+								</table>
+							<h3>
+								42Y - Prepared for Everything (Standing)
+							</h3>
+								<h4>
+									Vista Previa - 42Y
+								</h4>
+									<img src="./img/skill_42y.png" alt="Prepared for Everything">
+									<table>
+									<tr>
+										<th>Damage Base</th><th>Frame Adv.</th><th>Descripción</th>
+									</tr>
+									<tr>
+										<td>90</td><td>+19</td><td>Lanza cuchillos en todas las direcciones y congélalos a tiempo.</td>
+									</tr>
+								</table>
+							<h3>
+								22Y/26Y - Crossup Magic (Standing)
+							</h3>
+								<h4>
+									Vista Previa - 22Y/26Y
+								</h4>
+									<img src="./img/skill_22y.png" alt="Crossup Magic">
+									<table>
+									<tr>
+										<th>Damage Base</th><th>Frame Adv.</th><th>Descripción</th>
+									</tr>
+									<tr>
+										<td>75</td><td>+33/+35</td><td>Graze hacia adelante o hacia arriba mientras te proteges con círculos de cuchillos.<br>Los cuchillos también pueden cortar al oponente.</td>
+									</tr>
+								</table>
+							<h3>
+								5C - Perfect Maid (Standing)
+							</h3>
+								<h4>
+									Vista Previa - 5C
+								</h4>
+									<img src="./img/skill_5c.png" alt="Perfect Maid">
+									<table>
+									<tr>
+										<th>Damage Base</th><th>Frame Adv.</th><th>Descripción</th>
+									</tr>
+									<tr>
+										<td>96</td><td>-4</td><td>Un movimiento de inversión que se activa cuando es golpeado por ataques fisicos.</td>
+									</tr>
+								</table>
+							<h3>
+								26C+Dirección - Vanishing Everything (Standing)
+							</h3>
+								<h4>
+									Vista Previa - 26C+Dirección
+								</h4>
+									<img src="./img/skill_26c.png" alt="Vanishing Everything">
+									<table>
+									<tr>
+										<th>Damage Base</th><th>Frame Adv.</th><th>Descripción</th>
+									</tr>
+									<tr>
+										<td>-</td><td>-</td><td>Te teletransporta.</td>
+									</tr>
+								</table>
+							<h3>
+								2C - Time Paradox I (Standing)
+							</h3>
+								<h4>
+									Vista Previa - 2C
+								</h4>
+									<img src="./img/skill_2c.png" alt="Time Paradox I">
+									<table>
+									<tr>
+										<th>Damage Base</th><th>Frame Adv.</th><th>Descripción</th>
+									</tr>
+									<tr>
+										<td>-</td><td>-</td><td>Sakuya de una línea de tiempo diferente aparece y usa un movimiento danmaku aleatorio.<br>No cuesta nada de tu barra de danmaku aparte del 40% para Time Paradox.<br>Time Paradox se puede cancelar para atacar y hacerlo NO interrumpirá el ataque de la otra Sakuya.</td>
+									</tr>
+								</table>
+							<h3>
+								2Z - Time Paradox II (Standing)
+							</h3>
+								<h4>
+									Vista Previa - 2Z
+								</h4>
+									<img src="./img/skill_2z.png" alt="Time Paradox II">
+									<table>
+									<tr>
+										<th>Damage Base</th><th>Frame Adv.</th><th>Descripción</th>
+									</tr>
+									<tr>
+										<td>-</td><td>-</td><td>Sakuya de una línea de tiempo diferente aparece y usa la Spell Card seleccionada.<br>Fallará si la carta seleccionada es una carta de escenario.<br>El costo de energía de la card se restará de su stock de energía.<br>Time Paradox se puede cancelar para atacar y hacerlo NO interrumpirá el ataque de la otra Sakuya.</td>
+									</tr>
+								</table>
+							<h3>
+								24Z - Time Paradox III (Standing)
+							</h3>
+								<h4>
+									Vista Previa - 24Z
+								</h4>
+									<img src="./img/skill_24z.png" alt="Time Paradox III">
+									<table>
+									<tr>
+										<th>Damage Base</th><th>Frame Adv.</th><th>Descripción</th>
+									</tr>
+									<tr>
+										<td>-</td><td>-</td><td>Sakuya de una línea de tiempo diferente aparece y usa la Spell Card declarada.<br>Fallará si no hay ninguna card declarada.<br>El costo de energía de la card se restará de su stock de energía.<br>Time Paradox se puede cancelar para atacar y hacerlo NO interrumpirá el ataque de la otra Sakuya.</td>
+									</tr>
+								</table>
+							<h3>
+								62C - Sakuya's Special Stopwatch (Standing)
+							</h3>
+								<h4>
+									Vista Previa - 62C
+								</h4>
+									<img src="./img/skill_62c.png" alt="Sakuya's Special Stopwatch">
+									<table>
+									<tr>
+										<th>Damage Base</th><th>Frame Adv.</th><th>Descripción</th>
+									</tr>
+									<tr>
+										<td>-</td><td>-</td><td>Dispara un proyectil que no hace daño pero al contacto con un oponente, detiene su movimiento junto con todos sus aliados y proyectiles.</td>
+									</tr>
+								</table>
+							<h3>
+								42C - Bounce, Bonuce! (Standing)
+							</h3>
+								<h4>
+									Vista Previa - 42C
+								</h4>
+									<img src="./img/skill_42c.png" alt="Bounce, Bonuce!">
+									<table>
+									<tr>
+										<th>Damage Base</th><th>Frame Adv.</th><th>Descripción</th>
+									</tr>
+									<tr>
+										<td>-</td><td>-</td><td>Igual que el anterior, pero el proyectil rebota en el suelo y avanza más lento.</td>
+									</tr>
+								</table>
+					</div>
+				</div>
+			</div>
+			<div id="footer">
+			</div>
+		</div>
+	</body>
+	
+</html>

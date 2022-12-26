@@ -1,0 +1,720 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+	
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta http-equiv="content-style-type" content="text/css">
+		<meta http-equiv="Content-Script-Type" content="text/javascript">
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<title>Touhou X Ikemen (Wiki) - Cartas</title>
+		<link rel="stylesheet" type="text/css" href="./common.css">
+		<script type="text/javascript" src="./script.js"></script>
+	</head>
+	
+	<body onLoad="init()">
+		<div id="frame">
+			<div id="header">
+			</div>
+			<div id="main">
+				<div id="left-region">
+				</div>
+				<div id="right-region">
+					<h1>
+						Cartas
+					</h1>
+					<div id="contents"></div>
+					<div class="indent">
+						<h2>
+							System Cards
+						</h2>
+							<h3>
+								Recovery
+							</h3>
+									<img src="./img/card_01.png" alt="Recovery" width="41" height="68">
+									<table>
+										<tr>
+											<th>¿Qué hace?</th>
+											<th>¿Cuanto Cuesta?</th>
+										</tr>
+										<tr>
+											<td>Una system card para recuperar la salud perdida.</td>
+											<td>2000</td>
+										</tr>
+									</table>
+									<ul>
+										<li>Nivel 1: Cura 250 puntos de vida.</li>
+										<li>Nivel 2: Cura 260 puntos de vida.<br>En Pasivo: Regenera vida lentamente mientras luchas.</li>
+										<li>Nivel 3: Cura 270 puntos de vida.<br>En Pasivo: Regenera el doble de vida mientras luchas.</li>
+										<li>Nivel 4: Cura 280 puntos de vida.<br>En Pasivo: Regenera el triple de vida mientras luchas.</li>
+									</ul>
+							<h3>
+								New Card Album
+							</h3>
+									<img src="./img/card_02.png" alt="New Card Album" width="41" height="68">
+									<table>
+										<tr>
+											<th>¿Qué hace?</th>
+											<th>¿Cuanto Cuesta?</th>
+										</tr>
+										<tr>
+											<td>Reinicia tú deck y obten un nuevo deck de cinco cartas.<br>La reducción de costos no se aplica cuando usas tu carta de system card.</td>
+											<td>1000</td>
+										</tr>
+									</table>
+									<ul>
+										<li>Nivel 1: Reinicia tú Deck.</li>
+										<li>Nivel 2: Reinicia tú Deck.<br>En Pasivo: Usar las cartas cuesta un 10% menos de energía.</li>
+										<li>Nivel 3: Reinicia tú Deck.<br>En Pasivo: Usar las cartas cuesta un 20% menos de energía.</li>
+										<li>Nivel 4: Reinicia tú Deck.<br>En Pasivo: Usar las cartas cuesta un 30% menos de energía.</li>
+									</ul>
+							<h3>
+								Danmaku Booster
+							</h3>
+									<img src="./img/card_03.png" alt="Danmaku Booster" width="41" height="68">
+									<table>
+										<tr>
+											<th>¿Qué hace?</th>
+											<th>¿Cuanto Cuesta?</th>
+										</tr>
+										<tr>
+											<td>Una carta de hechizos que recarga tu barra de Danmaku convirtiendo el poder.<br>Cuando se usa, su barra permanece al máximo durante 8 segundos y no puede ganar energía mientras dura este efecto, más tres segundos adicionales después de que finaliza.</td>
+											<td>1500</td>
+										</tr>
+									</table>
+									<ul>
+										<li>Nivel 1: La barra permanece al máximo durante 8 segundos.</li>
+										<li>Nivel 2: La barra permanece al máximo durante 9 segundos.<br>En Pasivo: Tu barra se carga un poco más rápido mientras luchas.</li>
+										<li>Nivel 3: La barra permanece al máximo durante 10 segundos.<br>En Pasivo: Tu barra se carga más rápido mientras luchas.</li>
+										<li>Nivel 4: La barra permanece al máximo durante 11 segundos.<br>En Pasivo: Tu barra se carga aún más rápido mientras luchas.</li>
+									</ul>
+						<h2>
+							Skill Cards
+						</h2>
+							<h3>
+								Day of the Flames
+							</h3>
+								<img src="./img/card_04.png" alt="Day of the Flames" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+									</tr>
+									<tr>
+										<td>Aumenta tus niveles de poder del fuego.</td>
+									</tr>
+								</table>
+								<table>
+									<tr>
+										<th>¿En Qué Afecta?</th>
+									</tr>
+									<tr>
+										<td>Fireball</td>
+									</tr>
+									<tr>
+										<td>Summer Flame</td>
+									</tr>
+									<tr>
+										<td>Summer Red</td>
+									</tr>
+									<tr>
+										<td>Flame Dance</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Fireball: Más proyectiles.</li>
+									<li>Summer Flame: Más Daño</li>
+									<li>Summer Red: Más Daño</li>
+									<li>Flame Dance: Más Daño</li>
+									<li>Todos los niveles: Aumenta el poder de las habilidades enumeradas.</li>
+								</ul>
+							<h3>
+								Day of the Gusts
+							</h3>
+								<img src="./img/card_05.png" alt="Day of the Gusts" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+									</tr>
+									<tr>
+										<td>Aumenta tus niveles de poder del viento.</td>
+									</tr>
+								</table>
+								<table>
+									<tr>
+										<th>¿En Qué Afecta?</th>
+									</tr>
+									<tr>
+										<td>Compressed Wind</td>
+									</tr>
+									<tr>
+										<td>Spring Wind</td>
+									</tr>
+									<tr>
+										<td>Wind Attack</td>
+									</tr>
+									<tr>
+										<td>Twister</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Compressed Wind: Más proyectiles.</li>
+									<li>Spring Wind: Ganas más poder.</li>
+									<li>Wind Attack: Más Daño</li>
+									<li>Twister: Más Daño</li>
+									<li>Todos los niveles: Aumenta el poder de las habilidades enumeradas.</li>
+								</ul>
+							<h3>
+								Day of the Waves
+							</h3>
+								<img src="./img/card_06.png" alt="Day of the Waves" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+									</tr>
+									<tr>
+										<td>Aumenta tus niveles de poder del agua.</td>
+									</tr>
+								</table>
+								<table>
+									<tr>
+										<th>¿En Qué Afecta?</th>
+									</tr>
+									<tr>
+										<td>Watergun</td>
+									</tr>
+									<tr>
+										<td>Bubble of Hesitation</td>
+									</tr>
+									<tr>
+										<td>Winter Element</td>
+									</tr>
+									<tr>
+										<td>Holding Spray</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Watergun: Más Daño</li>
+									<li>Bubble of Hesitation: Más durabilidad y daños.</li>
+									<li>Winter Element: Más daño y múltiples pilares.</li>
+									<li>Holding Spray: Más Daño</li>
+									<li>Todos los niveles: Aumenta el poder de las habilidades enumeradas.</li>
+								</ul>
+							<h3>
+								Day of the Crystals
+							</h3>
+								<img src="./img/card_07.png" alt="Day of the Crystals" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+									</tr>
+									<tr>
+										<td>Aumenta tus niveles de poder del cristal.</td>
+									</tr>
+								</table>
+								<table>
+									<tr>
+										<th>¿En Qué Afecta?</th>
+									</tr>
+									<tr>
+										<td>Autumn Blade</td>
+									</tr>
+									<tr>
+										<td>Crystal Pierce</td>
+									</tr>
+									<tr>
+										<td>Emerald City</td>
+									</tr>
+									<tr>
+										<td>Dew Spear</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Autumn Blade: Más Daño</li>
+									<li>Crystal Pierce: Genera cristales más rápido.</li>
+									<li>Emerald City: Más Daño</li>
+									<li>Dew Spear: Más cristales.</li>
+									<li>Todos los niveles: Aumenta el poder de las habilidades enumeradas.</li>
+								</ul>
+						<h2>
+							Spell Cards
+						</h2>
+							<h3>
+								St. Elmo's Pillar
+							</h3>
+								<img src="./img/card_08.png" alt="St. Elmo's Pillar" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>Una spell card ofensiva que dispara una gran bola de fuego directamente al oponente y provoca una gran explosión de llamas.<br>Se puede encadenar en: Royal Flare.<br>Elemento: Fuego</td>
+										<td>1000</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Elemento: Fuego</li>
+									<li>Nivel 1: 60 de daño, 10 de daño protegido.</li>
+									<li>Nivel 2: 70 de daño, 15 de daño protegido, olas de llamas desde el lado de la explosión.</li>
+									<li>Nivel 3: 80 daños, 20 daños protegidos, 2 ondas de llamas desde el lado de la explosión.</li>
+									<li>Nivel 4: 90 daños, 25 daños protegidos, 3 ondas de llamas desde el lado de la explosión.</li>
+								</ul>
+							<h3>
+								Royal Flare
+							</h3>
+								<img src="./img/card_09.png" alt="Royal Flare" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>Un ataque elemental solar que quema todo en un área grande.<br>Utiliza toda tu barra de Danmaku y causa daño adicional según la cantidad que tengas.<br>Se puede encadenar en: Solar Flare.<br>Elemento: Fuego / Solar</td>
+										<td>2000</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Elemento: Fuego</li>
+									<li>Nivel 1: Daño Normal.</li>
+									<li>Nivel 2: Daño Aumentado</li>
+									<li>Nivel 3: Daño Aún Mayor</li>
+									<li>Nivel 4: Daño Extremadamente Alto</li>
+								</ul>
+							<h3>
+								Elemental Harvester
+							</h3>
+								<img src="./img/card_10.png" alt="Elemental Harvester" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>Conéctate a una rueda dentada con cuchillas de metal afiladas para dañar a los oponentes cercanos.<br>Esta spell card se puede usar para contrarrestar ataques normales, ataques especiales, hiperataques, lanzamientos normales y lanzamientos especiales del oponente.<br>Se puede encadenar en: Emerald Megalopolis, el encadenamiento reduce la carga..<br>Elemento: Metal</td>
+										<td>1000</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Elemento: Metal</li>
+									<li>Nivel 1: Daño Más Bajo</li>
+									<li>Nivel 2: Mas Daño</li>
+									<li>Nivel 3: Aún Más Daño</li>
+									<li>Nivel 4: La Mayoría de los Daños</li>
+								</ul>
+							<h3>
+								Philosopher's Stone
+							</h3>
+								<img src="./img/card_11.png" alt="Philosopher's Stone" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>Invoca los cinco cristales que representan los cinco elementos de Fuego, Agua, Viento, Tierra y Metal.</td>
+										<td>1000</td>
+									</tr>
+									<tr>
+										<td colspan="2">Cuando se usan ataques elementales, los cristales correspondientes disparan proyectiles dirigidos al oponente y producen el siguiente efecto:</td>
+									</tr>
+									<tr>
+										<td colspan="2">Fuego: El cristal explota y hace daño en un área pequeña a su alrededor.</td>
+									</tr>
+									<tr>
+										<td colspan="2">Agua: El cristal libera dos burbujas de agua.</td>
+									</tr>
+									<tr>
+										<td colspan="2">Tierra: El cristal cura Patchouli por 25 vidas.</td>
+									</tr>
+									<tr>
+										<td colspan="2">Viento: El cristal genera 200 de poder.</td>
+									</tr>
+									<tr>
+										<td colspan="2">Metal: El cristal rellena el 40% de la barra de danmaku.</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Elementos: Todos</li>
+									<li>Nivel 1: 15 segundos de duración. Cada Cristal se puede usar hasta dos veces.</li>
+									<li>Nivel 2: 17 segundos de duración. Cada Cristal se puede usar hasta 3 veces.</li>
+									<li>Nivel 3: 19 segundos de duración. Cada Cristal se puede usar hasta 4 veces.</li>
+									<li>Nivel 4: 21 segundos de duración. Cada Cristal se puede usar hasta 5 veces.</li>
+								</ul>
+							<h3>
+								Noahian Deluge
+							</h3>
+								<img src="./img/card_12.png" alt="Noahian Deluge" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>Dispara bolas de agua a alta velocidad al oponente.<br>El daño de las bolas es bajo, pero la cantidad de ellas y su rápida velocidad lo compensan.</td>
+										<td>1000</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Elemento: Agua</li>
+									<li>Nivel 1: 18 de daño/golpe.</li>
+									<li>Nivel 2: 20 de daño/golpe. Pasivo: Aparecen burbujas de agua al azar en el escenario que dañan al oponente cuando se tocan.</li>
+									<li>Nivel 3: 22 de daño/golpe. Pasivo: Aparecen burbujas de agua al azar en el escenario que dañan al oponente cuando se tocan. Cuando tocan el suelo, el agua contenida se rocía hacia arriba con el mismo efecto que el movimiento Winter Element.</li>
+									<li>Nivel 4: 24 de daño/golpe. Pasivo: Igual que el anterior.</li>
+								</ul>
+							<h3>
+								Silent Selena
+							</h3>
+								<img src="./img/card_13.png" alt="Silent Selena" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>Libera una gran cantidad de energía elemental de la Luna a tu alrededor.<br>Este movimiento también te proporciona invencibilidad mientras lo usas.</td>
+										<td>2000</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Elemento: Lunar</li>
+									<li>Nivel 1: Daño Medio</li>
+									<li>Nivel 2: Mayor Daño, área 10 unidades más amplia.</li>
+									<li>Nivel 3: Mayor Daño, área 20 unidades más amplia, un poco de daño incluso si está protegido.</li>
+									<li>Nivel 4: Mayor Daño, área 30 unidades más amplia, un poco de daño incluso si está protegido.</li>
+								</ul>
+							<h3>
+								Unbound Harvester
+							</h3>
+								<img src="./img/card_14.png" alt="Unbound Harvester" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>Crea una gran rueda dentada con cuchillas afiladas y lánzala al oponente.</td>
+										<td>1000</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Elemento: Metal</li>
+									<li>Nivel 1: Daño Más Bajo</li>
+									<li>Nivel 2: Daño Medio</li>
+									<li>Nivel 3: Mayor Daño</li>
+									<li>Nivel 4: Daño Más Alto</li>
+								</ul>
+							<h3>
+								Djinn Gust
+							</h3>
+								<img src="./img/card_15.png" alt="Djinn Gust" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>Crea un viento fuerte que empuja al oponente y al mismo tiempo hace Daño<br>Debido a la naturaleza del elemento Viento, el daño puede variar aleatoriamente, y también dependiendo del tamaño y la posición del oponente.</td>
+										<td>1000</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Elemento: Viento.</li>
+									<li>Nivel 1: 16 de daño por golpe.</li>
+									<li>Nivel 2: 17 de daño por golpe.</li>
+									<li>Nivel 3: 18 de daño por golpe.</li>
+									<li>Nivel 4: 19 de daño por golpe.</li>
+								</ul>
+							<h3>
+								Akiba Summer
+							</h3>
+								<img src="./img/card_16.png" alt="Akiba Summer" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>Muévase rápidamente en el aire mientras rocía fuego ardiente y agua helada en todas las direcciones.<br>La duración completa de este movimiento cuenta como graze, por lo que no debe preocuparse de que los proyectiles lo dañen.<br>El movimiento no puede ser interrumpido por ataques después de que comenzó.<br>Debido al uso de elementos opuestos, el daño varía mucho, por lo que este movimiento es algo impredecible.<br>Como los elementos se equilibran entre sí, el movimiento no genera ni se ve afectado por la carga.</td>
+										<td>2000</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Elementos: Fuego y Agua.</li>
+									<li>Nivel 1: Daño Más Bajo</li>
+									<li>Nivel 2: Daño Medio</li>
+									<li>Nivel 3: Mayor Daño</li>
+									<li>Nivel 4: Daño Más Alto</li>
+								</ul>
+							<h3>
+								Satellite Fireworks
+							</h3>
+								<img src="./img/card_17.png" alt="Fantasy Heaven" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>Bombardea un área enorme con proyectiles explosivos. Hace un excelente daño protegido y es completamente ininterrumpible.<br>Se puede hacer graze, pero dura demasiado, por lo que solo se puede evitar parte del daño.</td>
+										<td>3000</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Elementos: Todos.</li>
+									<li>Nivel 1: Daño Elevado, 1,5 de daño por proyectil protegido.</li>
+									<li>Nivel 2: Mayor Daño, 2 daños por proyectil protegido.</li>
+									<li>Nivel 3: Daño Aún Mayor, 2,5 daños por proyectil protegido.</li>
+									<li>Nivel 4: Daño Más Alto, 3 daños por proyectil protegido.</li>
+								</ul>
+							<h3>
+								Jellyfish Princess
+							</h3>
+								<img src="./img/card_18.png" alt="Jellyfish Princess" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>La carta de hechizos más fuerte de Reimu que no requiere preparación especial para usar.<br>Proporciona invencibilidad total y el daño es bastante alto, sin embargo, es bastante costoso de usar.</td>
+										<td>2000</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Elemento: Agua.</li>
+									<li>Nivel 1: Evita 250 de daño y permite volar.</li>
+									<li>Nivel 2: Previene 275 de daño y permite volar. La burbuja se multiplica aleatoriamente en proyectiles de burbujas.</li>
+									<li>Nivel 3: Evita 300 de daño y permite volar. La burbuja se multiplica aleatoriamente en proyectiles de burbujas con una mejor oportunidad y lo hace automáticamente cuando es atacada.</li>
+									<li>Nivel 4: Previene 325 de daño y permite volar. Igual que el anterior, además de que las burbujas se convierten en pilares de agua cuando golpean el suelo y no se eliminan al hacer graze.</li>
+								</ul>
+							<h3>
+								Librarian Devil
+							</h3>
+								<img src="./img/card_19.png" alt="Librarian Devil" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>Invoca a tu familiar, Koakuma. Ella ataca a cualquier oponente que se le acerque con un libro.<br>No puede ser golpeada por ataques normales (NA, NP o NT).</td>
+										<td>2000</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Nivel 1: PS y Daños Más Bajos</li>
+									<li>Nivel 2: Más PS y Daño</li>
+									<li>Nivel 3: Aún Más PS y Daño</li>
+									<li>Nivel 4: PS Máximo y Daño</li>
+								</ul>
+							<h3>
+								Rubble Pile Belt
+							</h3>
+								<img src="./img/card_20.png" alt="Rubble Pile Belt" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>Abre un portal a una zona de asteroides.</td>
+										<td>2000</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Elementos: Tierra.</li>
+									<li>Nivel 1: Daño Medio</li>
+									<li>Nivel 2: Más Daño. Pasivo: Los asteroides vienen del aire al azar.</li>
+									<li>Nivel 3: Más Daño. Pasivo: Los asteroides vienen del aire con más frecuencia.</li>
+									<li>Nivel 4: Mayor Daño. Pasivo: Los asteroides vienen del aire con más frecuencia.</li>
+								</ul>
+							<h3>
+								Satellite Sunflower
+							</h3>
+								<img src="./img/card_21.png" alt="Satellite Sunflower" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>Una versión más débil de Satellite Fireworks crea menos proyectiles, más débiles y que no explotan.<br>La ventaja es que este hechizo, una vez iniciado, continúa atacando mientras eres libre de hacer cualquier otra cosa.</td>
+										<td>1000</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Elementos: Lunar y Bosque.</li>
+									<li>Nivel 1: Mínimo daño, área y duración.</li>
+									<li>Nivel 2: +25% de daño por golpe, +0,75 segundos de duración, área ligeramente más amplia y frecuencia de proyectil.</li>
+									<li>Nivel 3: +50% de daño por golpe, +1,5 segundos de duración, área ligeramente más amplia y frecuencia de proyectil.</li>
+									<li>Nivel 4: +75% de daño por golpe, +2,25 segundos de duración, área ligeramente más amplia y frecuencia de proyectil.</li>
+								</ul>
+							<h3>
+								Lunar Blaster
+							</h3>
+								<img src="./img/card_22.png" alt="Lunar Blaster" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>Dispara energía lunar concentrada al oponente.<br>Existe la posibilidad de que aparezca una gran explosión adicional que contenga la energía de la Luna Llena.<br>El Full Moon Beam no se ve afectado por la carga, pero el resto del ataque sí.</td>
+										<td>2000</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Elemento: Lunar.</li>
+									<li>Nivel 1: Probabilidad de rayo de Luna Llena es 15%.</li>
+									<li>Nivel 2: La probabilidad de que el rayo de luna llena sea del 33%.</li>
+									<li>Nivel 3: La probabilidad de que el rayo de Luna Llena sea del 50%.</li>
+									<li>Nivel 4: La probabilidad de que el rayo de Luna Llena sea del 70%.</li>
+								</ul>
+							<h3>
+								Absolute Harvester
+							</h3>
+								<img src="./img/card_23.png" alt="Absolute Harvester" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>La spell de metal más fuerte, que llama a muchas cuchillas para cortar al oponente en pedazos.<br>Este movimiento no se puede proteger y no se ve afectado por la carga, pero es lento al comenzar y puede interrumpirse.</td>
+										<td>3000</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Elemento: Metal.</li>
+									<li>Nivel 1: Daño Medio</li>
+									<li>Nivel 2: Mayor Daño</li>
+									<li>Nivel 3: Daño Aún Mayor</li>
+									<li>Nivel 4: Daño Extremadamente Alto</li>
+								</ul>
+							<h3>
+								Solar Flare
+							</h3>
+								<img src="./img/card_24.png" alt="Solar Flare" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>Una versión mejorada de Royal Flare, la spell más fuerte de Patchouli.<br>El efecto de la carga se reduce en esta spell.</td>
+										<td>4000</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Elemento: Fuego o Solar.</li>
+									<li>Nivel 1: 340 de daño. Daño protegido alrededor de 170.</li>
+									<li>Nivel 2: 425 de daño. Daño protegido alrededor de 170. Puede matar cuando está protegido.</li>
+									<li>Nivel 3: 510 de daño. Daño protegido alrededor de 170. Puede matar cuando está protegido.</li>
+									<li>Nivel 4: 595 de daño. Daño protegido alrededor de 170. Puede matar cuando está protegido.</li>
+								</ul>
+							<h3>
+								Emerald Megalopolis
+							</h3>
+								<img src="./img/card_25.png" alt="Emerald Megalopolis" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>Una versión muy poderosa de Emerald City.<br>Al igual que Emerald City, este hechizo también funciona como contraataque contra ataques de tipo NA, SA, NT y ST, sin embargo, esto también causa una gran cantidad de daño y puede golpear hasta cuatro veces.<br>Los niveles más altos aumentan la nitidez de los cristales, causando daño cuando se protege el ataque.</td>
+										<td>4000</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Elemento: Tierra</li>
+									<li>Nivel 1: Daño Alto</li>
+									<li>Nivel 2: Igual que el anterior, y hace daño cuando está protegido.</li>
+									<li>Nivel 3: Igual que el anterior, pero el daño protegido se duplica.</li>
+									<li>Nivel 4: Igual que el anterior, pero el daño protegido se triplica.</li>
+								</ul>
+							<h3>
+								Ring of Fire
+							</h3>
+								<img src="./img/card_26.png" alt="Ring of Fire" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>Lanza un anillo de llamas al oponente.<br>Se mueve muy lentamente, por lo que aunque se puede evitar rozándolo, permanecerá por un tiempo para interponerse en el camino de tu oponente.</td>
+										<td>1000</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Elemento: Fuego</li>
+									<li>Nivel 1: 118 de Daño</li>
+									<li>Nivel 2: 132 de Daño, 16 de Daño cuando está protegido.</li>
+									<li>Nivel 3: 144 de Daño, 32 de Daño cuando está protegido.</li>
+									<li>Nivel 4: 157 de Daño, 48 de Daño cuando está protegido.</li>
+								</ul>
+							<h3>
+								Static Green
+							</h3>
+								<img src="./img/card_27.png" alt="Static Green" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>Un ataque que golpea el suelo con una repentina descarga eléctrica. Es inguardable, pero se puede hacer graze.<br>Tenga en cuenta que esta vez es una spell card, no una skill card, a diferencia de 12.3.</td>
+										<td>1000</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Elemento: Viento</li>
+									<li>Nivel 1: 160 de Daño</li>
+									<li>Nivel 2: 180 de Daño</li>
+									<li>Nivel 3: 200 de Daño</li>
+									<li>Nivel 4: 220 de Daño</li>
+								</ul>
+							<h3>
+								Grand Philospher's Stone
+							</h3>
+								<img src="./img/card_28.png" alt="Grand Philospher's Stone" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>Una spell extremadamente poderoso que combina todos los elementos para una explosión indefendible.<br>No puede hacer tanto daño como Solar Flare, pero es imbloqueable, por lo que siempre golpearás mientras el oponente está en la gran área de ataque.</td>
+										<td>5000</td>
+									</tr>
+								</table>
+								<ul>
+									<li>Elementos: Todos</li>
+									<li>Nivel 1: Daño Alto</li>
+									<li>Nivel 2: Mayor Daño</li>
+									<li>Nivel 3: Daño Aún Mayor</li>
+									<li>Nivel 4: Daño Extremadamente Alto</li>
+								</ul>
+							<h3>
+								Wind Trap of Superior Lightning
+							</h3>
+								<img src="./img/card_29.png" alt="Fantasy Nature" width="41" height="68">
+								<table>
+									<tr>
+										<th>¿Qué hace?</th>
+										<th>¿Cuanto Cuesta?</th>
+									</tr>
+									<tr>
+										<td>Esta Card es exclusivo de este juego, prepara un circulo de viento que si es atrapado lanzara un rayo hasta restarle vida.</td>
+										<td>4000</td>
+									</tr>
+								</table>
+					</div>
+				</div>
+			</div>
+			<div id="footer">
+			</div>
+		</div>
+	</body>
+	
+</html>
