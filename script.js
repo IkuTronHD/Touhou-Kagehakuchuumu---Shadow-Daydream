@@ -33,7 +33,7 @@ function insert_common() {
 	_leftregion.innerHTML = "\
 	<div class=\"content1\">Introducción</div>\
 	<ul class=\"page-list\">\
-		<li><a href=\"https://mega.nz/file/hFdTwDLB#pRV8ERZAmsTT3Cd1smnOvK_i6xKhU7P8noikRBNkQ_o\">Link del Juego</a></li>\
+		<li><a href=\"https://mega.nz/file/UU1j2I4b#Q1gOpUe0yL_6MXevs2T6PRGSopbJ9WSyC13krQkiou8">Link del Juego</a></li>\
 		<li><a href=\"./what.html\">¿Qué Es Esto?</a></li>\
 		<li><a href=\"./caution.html\">Notas</a></li>\
 		<li><a href=\"./thanks.html\">Gratitud</a></li>\
