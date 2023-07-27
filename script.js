@@ -37,6 +37,7 @@ function insert_common() {
 		<li><a href=\"./what.html\">¿Qué Es Esto?</a></li>\
 		<li><a href=\"./caution.html\">Notas</a></li>\
 		<li><a href=\"./thanks.html\">Gratitud</a></li>\
+		<li><a href=\"./os.html\">Requisitos</a></li>\
 	</ul>\
 	<div class=\"content1\">Otros</div>\
 	<ul class=\"page-list\">\

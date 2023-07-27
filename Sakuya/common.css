@@ -318,8 +318,8 @@ ul ul ul {
   text-align: center;
 }
 
-/* Caption text */
-.imgclass {
+/* Slideshow container */
+.mySlides img {
   display: block;
   margin-left: auto;
   margin-right: auto;
