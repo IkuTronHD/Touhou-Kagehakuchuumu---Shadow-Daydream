@@ -21,7 +21,7 @@ function insert_common() {
 				<img id=\"tooltip5\" src=\"./img/face5.png\">　　\
 				<img id=\"tooltip6\" src=\"./img/face6.png\">　　\
 				<img id=\"tooltip7\" src=\"./img/face7.png\">　　\
-				<img id=\"tooltip8\" src=\"./img/face8.png\">\
+				<img id=\"tooltip8\" src=\"./img/face8.png\">　　\
 			</div>\
 		<div style=\"float:right;\">\
 			<input type=\"submit\" value=\"Change Image\" onClick=\"change_image()\">\
@@ -36,10 +36,10 @@ function insert_common() {
 		<li><a href=\"https://mega.nz/file/pFliGYqL#bo3kGYajd2dAG5do5OdEvqIMlZBd_8YjfDqJn9Pz7Vk\">Game Link</a></li>\
 		<li><a href=\"./what_en.html\">What is this?</a></li>\
 		<li><a href=\"./caution_en.html\">Note</a></li>\
-		<li><a href=\"./thanks_en.html\">Gratitude</a></li>\
+		<li><a href=\"./thanks_en.html\">Credits</a></li>\
 		<li><a href=\"./os_en.html\">Requirements</a></li>\
 	</ul>\
-	<div class=\"content1\">Otros</div>\
+	<div class=\"content1\">Others</div>\
 	<ul class=\"page-list\">\
 		<li><a href=\"./qanda_en.html\">Questions and Answers</a></li>\
 		<li><a href=\"./contact_en.html\">Contact address</a></li>\
@@ -48,7 +48,7 @@ function insert_common() {
 	";
 	
 	var _footer = document.getElementById("footer");
-	_footer.innerHTML = "Distributed by IkuTronHD"
+	_footer.innerHTML = "Distributed by Daiyousei Madness"
 }
 
 function change_image() {

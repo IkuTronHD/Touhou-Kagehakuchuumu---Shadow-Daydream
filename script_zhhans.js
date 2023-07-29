@@ -8,12 +8,12 @@
 function insert_common() {
 	var _header = document.getElementById("header");
 	_header.innerHTML = "\
-	<a href=\"./index.html\">\
+	<a href=\"./index_zhhans.html\">\
 		<img src=\"./img/title.png\" alt=\"Touhou X Wiki\">\
 	</a>\
 	<div id=\"toolbar\">\
 			<div style=\"float:left;\">\
-				<a href=\"./index.html\" style=\"color:#FFFFFF;\">Selección de Personajes</a>\
+				<a href=\"./index_zhhans.html\" style=\"color:#FFFFFF;\">人物一览</a>\
 				<img id=\"tooltip1\" src=\"./img/face1.png\">　　\
 				<img id=\"tooltip2\" src=\"./img/face2.png\">　　\
 				<img id=\"tooltip3\" src=\"./img/face3.png\">　　\
@@ -24,31 +24,31 @@ function insert_common() {
 				<img id=\"tooltip8\" src=\"./img/face8.png\">　　\
 			</div>\
 		<div style=\"float:right;\">\
-			<input type=\"submit\" value=\"Cambiar Imágen\" onClick=\"change_image()\">\
+			<input type=\"submit\" value=\"抽签\" onClick=\"change_image()\">\
 		</div>\
 		<br>\
 	</div>";
 	
 	var _leftregion = document.getElementById("left-region");
 	_leftregion.innerHTML = "\
-	<div class=\"content1\">Introducción</div>\
+	<div class=\"content1\">介绍</div>\
 	<ul class=\"page-list\">\
-		<li><a href=\"https://mega.nz/file/pFliGYqL#bo3kGYajd2dAG5do5OdEvqIMlZBd_8YjfDqJn9Pz7Vk\">Link del Juego</a></li>\
-		<li><a href=\"./what.html\">¿Qué Es Esto?</a></li>\
-		<li><a href=\"./caution.html\">Notas</a></li>\
-		<li><a href=\"./thanks.html\">Créditos</a></li>\
-		<li><a href=\"./os.html\">Requisitos</a></li>\
+		<li><a href=\"https://mega.nz/file/pFliGYqL#bo3kGYajd2dAG5do5OdEvqIMlZBd_8YjfDqJn9Pz7Vk\">游戏链接</a></li>\
+		<li><a href=\"./what_zhhans.html\">这是哪里</a></li>\
+		<li><a href=\"./caution_zhhans.html\">笔记</a></li>\
+		<li><a href=\"./thanks_zhhans.html\">素材引用</a></li>\
+		<li><a href=\"./os_zhhans.html\">配置需求</a></li>\
 	</ul>\
-	<div class=\"content1\">Otros</div>\
+	<div class=\"content1\">其它</div>\
 	<ul class=\"page-list\">\
-		<li><a href=\"./qanda.html\">Preguntas y Respuestas</a></li>\
-		<li><a href=\"./contact.html\">Dirección de Contacto</a></li>\
-		<li><a href=\"./revision.html\">Notas de Actualizaciónes</a></li>\
+		<li><a href=\"./qanda_zhhans.html\">Q & A 环节</a></li>\
+		<li><a href=\"./contact_zhhans.html\">联络方式</a></li>\
+		<li><a href=\"./revision_zhhans.html\">更新记录</a></li>\
 	</ul>\
 	";
 	
 	var _footer = document.getElementById("footer");
-	_footer.innerHTML = "Distribuido por Daiyousei Madness"
+	_footer.innerHTML = "Wiki编写者：Daiyousei Madness<br>翻译：茄山"
 }
 
 function change_image() {
