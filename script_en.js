@@ -48,7 +48,7 @@ function insert_common() {
 	";
 	
 	var _footer = document.getElementById("footer");
-	_footer.innerHTML = "Distributed by Daiyousei Madness"
+	_footer.innerHTML = "Distributed by Daiyousei Madness (IkuTronHD)"
 }
 
 function change_image() {

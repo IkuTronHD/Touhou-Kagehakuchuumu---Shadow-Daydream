@@ -48,7 +48,7 @@ function insert_common() {
 	";
 	
 	var _footer = document.getElementById("footer");
-	_footer.innerHTML = "Wiki编写者：Daiyousei Madness<br>翻译：茄山"
+	_footer.innerHTML = "Wiki编写者：Daiyousei Madness (IkuTronHD)<br>翻译：茄山"
 }
 
 function change_image() {
