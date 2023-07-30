@@ -21,7 +21,7 @@ function insert_common() {
 				<img id=\"tooltip5\" src=\"./img/face5.png\">　　\
 				<img id=\"tooltip6\" src=\"./img/face6.png\">　　\
 				<img id=\"tooltip7\" src=\"./img/face7.png\">　　\
-				<img id=\"tooltip8\" src=\"./img/face8.png\">　　\
+				<img id=\"tooltip8\" src=\"./img/face8.png\">\
 			</div>\
 		<div style=\"float:right;\">\
 			<input type=\"submit\" value=\"Cambiar Imágen\" onClick=\"change_image()\">\
