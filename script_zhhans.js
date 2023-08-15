@@ -33,7 +33,7 @@ function insert_common() {
 	_leftregion.innerHTML = "\
 	<div class=\"content1\">介绍</div>\
 	<ul class=\"page-list\">\
-		<li><a href=\"https://mega.nz/file/pFliGYqL#bo3kGYajd2dAG5do5OdEvqIMlZBd_8YjfDqJn9Pz7Vk\">游戏链接</a></li>\
+		<li><a href=\"https://www.mediafire.com/file/df70bnsv7o4fwwa/Touhou_Shadow_Daydream_Base.zip/file\">游戏链接</a></li>\
 		<li><a href=\"./what_zhhans.html\">这是哪里</a></li>\
 		<li><a href=\"./caution_zhhans.html\">笔记</a></li>\
 		<li><a href=\"./thanks_zhhans.html\">素材引用</a></li>\
