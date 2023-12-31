@@ -40,14 +40,14 @@ function insert_common() {
 	<div class=\"content1\">About the Character</div>\
 	<ul class=\"page-list\">\
 		<li><a href=\"./char_en.html\">Character Features</a></li>\
-		<li><a href=\"./basic_en.html\">Basic System</a></li>\
-		<li><a href=\"./normal_en.html\">Normal Moves</a></li>\
-		<li><a href=\"./skill_en.html\">Special/Skill Moves</a></li>\
-		<li><a href=\"./spell_en.html\">Cards</a></li>\
-		<li><a href=\"./system_en.html\">How do I change the Decks?</a></li>\
-		<li><a href=\"./combo_en.html\">Combos</a></li>\
-		<li><a href=\"./color_en.html\">Colors</a></li>\
-		<li><a href=\"./fandom_en.html\">Some Tips About Reimu</a></li>\
+		<li><a href=\"./../notfinished_en.html\">Basic System</a></li>\
+		<li><a href=\"./../notfinished_en.html\">Normal Moves</a></li>\
+		<li><a href=\"./../notfinished_en.html\">Special/Skill Moves</a></li>\
+		<li><a href=\"./../notfinished_en.html\">Cards</a></li>\
+		<li><a href=\"./../notfinished_en.html\">How do I change the Decks?</a></li>\
+		<li><a href=\"./../notfinished_en.html\">Combos</a></li>\
+		<li><a href=\"./../notfinished_en.html\">Colors</a></li>\
+		<li><a href=\"./../notfinished_en.html\">Some Tips About Reimu</a></li>\
 	</ul>\
 	<div class=\"content1\">Other</div>\
 	<ul class=\"page-list\">\

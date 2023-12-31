@@ -9,7 +9,7 @@ function insert_common() {
 	var _header = document.getElementById("header");
 	_header.innerHTML = "\
 	<a href=\"./index_en.html\">\
-		<img src=\"./img/title.png\" alt=\"Touhou X Wiki\">\
+		<img src=\"./img/title_en.png\" alt=\"Touhou X Wiki\">\
 	</a>\
 	<div id=\"toolbar\">\
 			<div style=\"float:left;\">\
