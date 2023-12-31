@@ -69,7 +69,11 @@ function change_image() {
 function welcome_image() {
 	if (document.all.welcome) {
 		var image = [
-			["welcome01.png","!Bienvenidosss!"]
+			["welcome01.png","!Bienvenidosss!"],
+			["welcome02.png","Character Select"],
+			["welcome03.png","Story Mode Select"],
+			["welcome04.png","Stage 01 - Reimu Scenario"],
+			["welcome05.png","Deck Select"]
 		];
 		var rand = Math.floor(Math.random() * image.length);
 		var select = image[rand];
