@@ -46,7 +46,7 @@ function insert_common() {
 		<li><a href=\"./spell.html\">Cartas</a></li>\
 		<li><a href=\"./system.html\">¿Como cambio las Decks?</a></li>\
 		<li><a href=\"./combo.html\">Combos</a></li>\
-		<li><a href=\"./../notfinished.html\">Colores</a></li>\
+		<li><a href=\"./color.html\">Colores</a></li>\
 		<li><a href=\"./fandom.html\">Algunos Consejos Sobre Sakuya</a></li>\
 	</ul>\
 	<div class=\"content1\">Otros</div>\
