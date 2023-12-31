@@ -47,7 +47,7 @@ function insert_common() {
 		<li><a href=\"./system.html\">¿Como cambio las Decks?</a></li>\
 		<li><a href=\"./combo.html\">Combos</a></li>\
 		<li><a href=\"./../notfinished.html\">Colores</a></li>\
-		<li><a href=\"./fandom.html\">Algunos Consejos Sobre Reimu</a></li>\
+		<li><a href=\"./fandom.html\">Algunos Consejos Sobre Alice</a></li>\
 	</ul>\
 	<div class=\"content1\">Otros</div>\
 	<ul class=\"page-list\">\
