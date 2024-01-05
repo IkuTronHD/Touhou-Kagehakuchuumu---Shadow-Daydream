@@ -52,22 +52,28 @@
 										<th class="note">Botón</th><th class="note">Uso Previsto</th>
 									</tr>
 									<tr>
-										<th>A</th><td>Golpe Leve</td>
+										<th>A</th><td>Golpe Leve o Largo (Depende del personaje)</td>
 									</tr>
 									<tr>
 										<th>B</th><td>Golpe Fuerte</td>
 									</tr>
 									<tr>
-										<th>C</th><td>Disparo C: Dispara o tiene otros usos (Aunque otros no utilizan este bóton.)</td>
-									</tr>
-									<tr>
-										<th>Z</th><td>Usa la carta disponible.</td>
+										<th>C</th><td>Disparo C: Dispara o tiene otros usos.</td>
 									</tr>
 									<tr>
 										<th>X</th><td>Disparo A</td>
 									</tr>
 									<tr>
 										<th>Y</th><td>Disparo B</td>
+									</tr>
+									<tr>
+										<th>Z</th><td>Usa la carta disponible.</td>
+									</tr>
+									<tr>
+										<th>D</th><td>Cambia de personaje dentro del combate dentro del Tag Team.</td>
+									</tr>
+									<tr>
+										<th>W</th><td>Cambia de personaje dentro del combate dentro del Tag Team.</td>
 									</tr>
 									<tr>
 										<th>Start</th><td>Cambia la posición de la carta.</td>
@@ -104,9 +110,9 @@
 									Dash
 								</h4>
 									<img src="./../img/basic_dash.png" class="content_image">
-									Si haces Dash con 66/6+z tendras graze e iras para adelante.<br>
+									Si haces Dash con 66/6+Z tendras graze e iras para adelante.<br>
 									Sirve para esquivar proyectiles.<br>
-									Si haces Dash con 44/4+z tendras graze e iras para atras.
+									Si haces Dash con 44/4+Z tendras graze e iras para atras.
 								<h4>
 									Salto
 								</h4>
@@ -118,12 +124,12 @@
 								</h4>
 									<img src="./../img/basic_hijump.png" class="content_image">
 									Salta y añade graze al personaje.<br>
-									Por lo tanto esquivas proyectiles con este movimiento que se ejecuta con 8+z.
+									Por lo tanto esquivas proyectiles con este movimiento que se ejecuta con 8+Z.
 							<h3>
 								Acción de Recuperación
 							</h3>
 								<h4>
-									Pasivo
+									Recuperación
 								</h4>
 									<img src="./../img/basic_recover.png" class="content_image">
 									Este se recupera presionando A,B,C,X,Y o Z
@@ -131,7 +137,7 @@
 									Levantarse
 								</h4>
 									<img src="./../img/basic_standup.png" class="content_image">
-									Se levanta automaticamente cuando esta tirado en el suelo y si no pierde toda su vida.
+									Se levanta automáticamente cuando está tirado en el suelo, de hecho puedes dirigirte a cualquier lado si mantienes la dirección.
 						<h2>
 							Sistema
 						</h2>
@@ -139,30 +145,30 @@
 								Sistema de Movimientos y Cartas
 							</h3>
 								<h4>
-									Barra de Poder y Calibre de Daño
+									Barra de Danmaku y Calibre de Daño
 								</h4>
 									<img src="./../img/basic_spirits.png" class="content_image">
-									La barra de arriba sirve para ver cuanto es el daño limite de los personajes.<br>
-									Y la barra de abajo sirve para ver si tienes suficiente poder para lanzar tus ataques.<br>
+									La parte de arriba sirve para ver cuanto es el daño limite de los personajes.<br>
+									Y la parte de abajo sirve para ver si tienes suficiente poder para lanzar tus ataques.<br>
 									<br>
 									En cuanto a las estrellas, sirven para las bombas inicialmente siempre tienes 2.
 								<h4>
-									Cards
+									Cartas
 								</h4>
 									<img src="./../img/basic_card.png" class="content_image">
 									Hay cartas para activar y ejecutar <a href="./system.html">System Card,Skill Card,Spell Card y Assistant Card</a>, depende de tú deck.
 								<h4>
-									Declarar una Card
+									Declarar una Carta
 								</h4>
-									Cuando declaras una Card la Card se mantiene y la podras activar cuando quieras con <b>"26Z"</b>.<br>
 									<img src="./../img/declare.png" class="content_image">
+									Cuando declaras una carta, la carta se mantiene y la podras activar cuando quieras con <b>"236Z"</b>.<br>
 							<table>
 							<tr>
-								<th colspan="2" class="note">P. ¿Y como declaro una Card?</th>
+								<th colspan="2" class="note">P. ¿Y como declaro una Carta?</th>
 							</tr>
 							<tr>
 								<td class="td_left">
-									<img src="./../img/stand_sur.png">
+									<img src="./../img/stand_sur.png" style="width: 100%;">
 								</td>
 								<td class="td_right">
 									Pues se ejecuta con 22Z.<br>
@@ -171,25 +177,55 @@
 							</tr>
 						</table>
 								<h4>
-									Declarar una Bomb
+									Bomba
 								</h4>
-									<img src="./../img/bomb.png">
-									<br>
-									Cuando declaras una Card la Card se mantiene y la podras activar cuando quieras con <b>"22C"</b>.<br>
+									<img src="./../img/bomb.png" class="content_image">
+									Sirve para alejar a los enemigos nada más no hace daño.<br>
 							<table>
 							<tr>
-								<th colspan="2" class="note">P. ¿Y como declaro una Bomb?</th>
+								<th colspan="2" class="note">P. ¿Y como hago una Bomba?</th>
 							</tr>
 							<tr>
 								<td class="td_left">
-									<img src="./../img/stand_awa.png">
+									<img src="./../img/stand_awa.png" style="width: 100%;">
 								</td>
 								<td class="td_right">
-									Pues se ejecuta con 22C y tienes de límite 2 Bombs.<br>
+									Pues se ejecuta con 22C y tienes de límite 2 bombas.<br>
 									Y si no sabes que significa el 22C puedes resolverlo <a href="./../qanda.html">aquí</a>.<br>
 								</td>
 							</tr>
 						</table>
+						</table>
+								<h4>
+									Ataque en Cadena
+								</h4>
+									<img src="./../img/chain.png" class="content_image">
+									Sirve para hacer una spell card más poderosa qué la anterior.<br>
+							<table>
+							<tr>
+								<th colspan="2" class="note">P. ¿Y como hago un Ataque en Cadena?</th>
+							</tr>
+							<tr>
+								<td class="td_left">
+									<img src="./../img/stand_awa.png" style="width: 100%;">
+								</td>
+								<td class="td_right">
+									Pues se ejecuta con una Spell Card normal teniéndolo juntas.<br>
+									Y tienes que presionar C rápidamente o ser preciso. (Este ataque en cadena solo funciona con ciertas cartas y personajes.)<br>
+								</td>
+							</tr>
+						</table>
+						<h2>
+							Videos de Ejemplo
+						</h2>
+							<h3>
+								Movimientos de Sistema y Básicos
+							</h3>
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/D9AilANMuDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+							<h3>
+								System Card
+							</h3>
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/xEXS_XtdrLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 					</div>
 				</div>
 			</div>
