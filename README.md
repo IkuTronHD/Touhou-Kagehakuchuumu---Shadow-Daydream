@@ -1,1 +1,1 @@
-[![GitHub Wiki upload](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/actions/workflows/wiki.yml/badge.svg?branch=main&event=create)](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/actions/workflows/wiki.yml)
+
