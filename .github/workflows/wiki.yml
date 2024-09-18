@@ -4,7 +4,7 @@ name: GitHub Wiki upload
 on:
   push:
     branches:
-      - master
+      - main
     paths: [wiki/**, .github/workflows/wiki.yml]
 
 concurrency:
