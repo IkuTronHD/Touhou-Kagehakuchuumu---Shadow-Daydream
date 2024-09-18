@@ -1,0 +1,12 @@
+{
+  "website":{
+    "title": "Home Wiki!"
+  },
+  "nav":{
+    "home": "Home",
+    "welcome": "About",
+    "welcome_text": "Welcome to the Touhou Kagehakuchuumu ~ Shadow Daydream wiki!",
+    "use": "Your Use",
+    "use_text": "This wiki is for editing names, showing in-game changes, and more."
+  }
+}
