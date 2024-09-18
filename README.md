@@ -4,7 +4,7 @@
    – | _sidebar.md
    – | _navbar.md
    – | index.html
-   – | /nl/
+   – | /es/
        – | home.md
        – | _sidebar.md
        – | index.html
