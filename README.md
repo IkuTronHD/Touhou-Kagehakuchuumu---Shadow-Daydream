@@ -1,1 +1,10 @@
-Test
+– | README.md
+– | /docs/
+   – | home.md
+   – | _sidebar.md
+   – | _navbar.md
+   – | index.html
+   – | /nl/
+       – | home.md
+       – | _sidebar.md
+       – | index.html
