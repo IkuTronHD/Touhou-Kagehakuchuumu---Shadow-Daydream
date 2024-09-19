@@ -44,7 +44,8 @@
 | 26 | Domadora del Mar | ![AliceColor026](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/026.png) |
 | 37 | La Temida Titiritera | ![AliceColor037](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/037.png) |
 | 55 | Exterminadora de la Vida | ![AliceColor055](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/055.png) |
-| 63 | Chica Mágica | ![AliceColor064](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/063.png) |
+| 62 | La Chica Comé Dragones | ![AliceColor062](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/062.png) |
+| 63 | Chica Mágica | ![AliceColor063](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/063.png) |
 | 64 | La Unión Nuclear | ![AliceColor064](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/064.png) |
 | 65 | Titiritera de Siete Colores | ![AliceColor065](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/065.png) |
 | 66 | Bellas Artes | ![AliceColor066](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/066.png) |
