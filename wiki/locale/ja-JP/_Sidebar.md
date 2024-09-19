@@ -1,6 +1,6 @@
 **Wiki**
 
-* [Home](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Home‐ko‐KR)
+* [Home](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Home‐ja‐JP)
 
 **Languages**
 
@@ -9,4 +9,4 @@
 | [![ko-KR](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/Flag_ko.svg)](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Home‐ko‐KR) | [![ja-JP](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/Flag_ja.svg)](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Home‐ja‐JP) | --- |
 
 **Other Misc.**
-* [Color Names](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Color-Names‐ko‐KR)
+* [Color Names](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Color-Names‐ja‐JP)
