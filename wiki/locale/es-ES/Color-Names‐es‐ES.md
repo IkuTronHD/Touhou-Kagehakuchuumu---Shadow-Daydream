@@ -38,7 +38,7 @@
 ## Alice Margatroid
 ![AliceFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl03_ct01.png)
 
-| Pal Num. | Name of Color | Icon |
+| Num. de Pal | Nombre del Color | Icon |
 |----------|---------------|-----------|
 | 01 | Una Titiritera Normal | ![AliceColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/001.png) |
 | 26 | Domadora del Mar | ![AliceColor026](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/026.png) |
