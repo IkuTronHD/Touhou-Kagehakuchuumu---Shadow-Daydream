@@ -43,8 +43,9 @@
 | 01 | Una Titiritera Normal | ![AliceColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/001.png) |
 | 26 | Domadora del Mar | ![AliceColor026](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/026.png) |
 | 37 | La Temida Titiritera | ![AliceColor037](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/037.png) |
+| 39 | Muñeca Araña | ![AliceColor039](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/039.png) |
 | 55 | Exterminadora de la Vida | ![AliceColor055](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/055.png) |
-| 61 | La Muñeca Mala | ![AliceColor062](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/061.png) |
+| 61 | La Muñeca Mala | ![AliceColor061](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/061.png) |
 | 62 | La Chica Comé Dragones | ![AliceColor062](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/062.png) |
 | 63 | Chica Mágica | ![AliceColor063](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/063.png) |
 | 64 | La Unión Nuclear | ![AliceColor064](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/064.png) |
