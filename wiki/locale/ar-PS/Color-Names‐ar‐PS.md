@@ -1,7 +1,7 @@
 # Name of Colors
 
 ## ريمو هاكوري
-![ReimuFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl00_ct00.png)
+![ReimuFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl00_ct03.png)
 
 | Pal Num. | Name of Color | Icon |
 |----------|---------------|-----------|
@@ -13,7 +13,7 @@
 | 69 | ??? | ![ReimuColor069](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/069.png) |
 
 ## ماريسا كيريسامي
-![MarisaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl01_ct00.png)
+![MarisaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl01_ct03.png)
 
 | Pal Num. | Name of Color | Icon |
 |----------|---------------|-----------|
@@ -28,7 +28,7 @@
 | 50 | ??? | ![MarisaColor050](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/050.png) |
 
 ## كونوهانا-ساكوياهيمي
-![SakuyaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl02a_ct00.png)
+![SakuyaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl02a_ct03.png)
 
 | Pal Num. | Name of Color | IconA | IconB | IconC |
 |----------|---------------|-----------|-----------|-----------|
@@ -36,7 +36,7 @@
 | 23 | ??? | ![SakuyaColor023A](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/023A.png) | ![SakuyaColor023B](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/023B.png) | ![SakuyaColor023C](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/023C.png) |
 
 ## أليس مارغاترويد
-![AliceFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl03_ct00.png)
+![AliceFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl03_ct03.png)
 
 | Pal Num. | Name of Color | Icon |
 |----------|---------------|-----------|
