@@ -17,6 +17,7 @@
 | Pal Num. | Name of Color | Icon |
 |----------|---------------|-----------|
 | 01 | Memories of EoSD | ![MarisaColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/001.png) |
+| 07 | Retro Witch | ![MarisaColor007](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/007.png) |
 | 44 | Michirin | ![MarisaColor044](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/044.png) |
 | 45 | The Thief of Gold | ![MarisaColor045](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/045.png) |
 | 46 | Classic Love | ![MarisaColor046](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/046.png) |
