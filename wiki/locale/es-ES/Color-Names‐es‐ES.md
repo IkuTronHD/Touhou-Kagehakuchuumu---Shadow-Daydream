@@ -2,7 +2,7 @@
 ## Reimu Hakurei
 ![ReimuFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl00_ct01.png)
 
-| Pal Num. | Name of Color | Icon |
+| Num. de Pal | Nombre del Color | Icon |
 |----------|---------------|-----------|
 | 01 | Rojo | ![ReimuColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/001.png) |
 | 07 | Retro Miko | ![ReimuColor007](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/007.png) |
@@ -14,7 +14,7 @@
 ## Marisa Kirisame
 ![MarisaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl01_ct01.png)
 
-| Pal Num. | Name of Color | Icon |
+| Num. de Pal | Nombre del Color | Icon |
 |----------|---------------|-----------|
 | 01 | Recuerdos de EoSD | ![MarisaColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/001.png) |
 | 07 | Retro Bruja | ![MarisaColor007](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/007.png) |
@@ -29,16 +29,16 @@
 ## Sakuya Izayoi
 ![SakuyaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl02a_ct01.png)
 
-| Pal Num. | Name of Color | Icon |
-|----------|---------------|-----------|
-| 01 | Criada | ![SakuyaColor001A](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/001A.png)![SakuyaColor001B](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/001B.png)![SakuyaColor001C](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/001C.png) |
-| 23 | Guardiana de los Sueños | ![SakuyaColor023A](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/023A.png)![SakuyaColor023B](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/001B.png)![SakuyaColor023C](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/001C.png) |
+| Num. de Pal | Nombre del Color | IconA | IconB | IconC |
+|----------|---------------|-----------|-----------|-----------|
+| 01 | Criada | ![SakuyaColor001A](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/001A.png) | ![SakuyaColor001B](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/001B.png) | ![SakuyaColor001C](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/001C.png) |
+| 23 | Guardiana de los Sueños | ![SakuyaColor023A](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/023A.png) | ![SakuyaColor023B](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/001B.png) | ![SakuyaColor023C](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/001C.png) |
 
 <h2>Alice Margatroid</h2>
 <img src="https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Select/pl03_ct00.png">
 <b><table>
 <tr>
-  <td>Pal Num.</td>
+  <td>Num. de Pal</td>
   <td>en</td>
   <td>es</td>
   <td>jp</td>
