@@ -8,4 +8,4 @@
 | --- | --- | --- |
 
 **Other Misc.**
-* [Color Names](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Color-Names‐ar‐PS)
+* [Color](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Color-Names‐ar‐PS)
