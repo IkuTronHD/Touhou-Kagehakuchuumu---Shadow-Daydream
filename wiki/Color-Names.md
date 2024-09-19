@@ -26,34 +26,14 @@
 | 49 | Plumber with Memes 1 | ![MarisaColor049](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/049.png) |
 | 50 | Plumber with Memes 2 | ![MarisaColor050](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/050.png) |
 
-<h2>Sakuya Izayoi</h2>
-<img src="https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Select/pl02a_ct00.png">
-<b><table>
-<tr>
-  <td>Pal Num.</td>
-  <td>en</td>
-  <td>es</td>
-  <td>jp</td>
-  <td>ar</td>
-  <td>ko</td>
-</tr>
-<tr>
-  <td>01</td>
-  <td>Maid</td>
-  <td>Criada</td>
-  <td>???</td>
-  <td>???</td>
-  <td>???</td>
-</tr>
-<tr>
-  <td>23</td>
-  <td>Dream Gatekeeper</td>
-  <td>Guardiana de los Sueños</td>
-  <td>???</td>
-  <td>???</td>
-  <td>???</td>
-</tr>
-</table></b>
+## Sakuya Izayoi
+![SakuyaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl02a_ct00.png)
+
+| Pal Num. | Name of Color | Icon |
+|----------|---------------|-----------|
+| 01 | Maid | ![SakuyaColor001A](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/001A.png)![SakuyaColor001B](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/001B.png)![SakuyaColor001C](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/001C.png) |
+| 23 | Dream Gatekeeper | ![SakuyaColor023A](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/023A.png)![SakuyaColor023B](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/001B.png)![SakuyaColor023C](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/001C.png) |
+
 <h2>Alice Margatroid</h2>
 <img src="https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Select/pl03_ct00.png">
 <b><table>
