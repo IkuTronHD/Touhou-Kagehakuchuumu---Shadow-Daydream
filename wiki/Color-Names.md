@@ -12,7 +12,7 @@
 | 69 | Adhesive Ninja | ![ReimuColor069](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/069.png) |
 
 ## Marisa Kirisame
-![ReimuFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl01_ct00.png)
+![MarisaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl01_ct00.png)
 
 | Pal Num. | Name of Color | Icon |
 |----------|---------------|-----------|
