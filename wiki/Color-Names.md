@@ -1,4 +1,5 @@
 # Name of Colors
+
 ## Reimu Hakurei
 ![ReimuFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl00_ct00.png)
 
@@ -34,71 +35,15 @@
 | 01 | Maid | ![SakuyaColor001A](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/001A.png)![SakuyaColor001B](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/001B.png)![SakuyaColor001C](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/001C.png) |
 | 23 | Dream Gatekeeper | ![SakuyaColor023A](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/023A.png)![SakuyaColor023B](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/001B.png)![SakuyaColor023C](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/001C.png) |
 
-<h2>Alice Margatroid</h2>
-<img src="https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Select/pl03_ct00.png">
-<b><table>
-<tr>
-  <td>Pal Num.</td>
-  <td>en</td>
-  <td>es</td>
-  <td>jp</td>
-  <td>ar</td>
-  <td>ko</td>
-</tr>
-<tr>
-  <td>01</td>
-  <td>A Normal Puppeteer</td>
-  <td>Una Titiritera Normal</td>
-  <td>???</td>
-  <td>???</td>
-  <td>???</td>
-</tr>
-<tr>
-  <td>26</td>
-  <td>Tamer of the Sea</td>
-  <td>Domadora del Mar</td>
-  <td>???</td>
-  <td>???</td>
-  <td>???</td>
-</tr>
-<tr>
-  <td>37</td>
-  <td>Dreaded Puppeteer</td>
-  <td>El Temido Titiritera</td>
-  <td>???</td>
-  <td>???</td>
-  <td>???</td>
-</tr>
-<tr>
-  <td>55</td>
-  <td>Exterminator of all-life</td>
-  <td>Exterminadora de la vida</td>
-  <td>???</td>
-  <td>???</td>
-  <td>???</td>
-</tr>
-<tr>
-  <td>64</td>
-  <td>The Nuclear Union</td>
-  <td>La Unión Nuclear</td>
-  <td>???</td>
-  <td>???</td>
-  <td>???</td>
-</tr>
-<tr>
-  <td>65</td>
-  <td>Seven-Colored Puppeteer</td>
-  <td>Titiritera de Siete Colores</td>
-  <td>七色の人形遣い</td>
-  <td>مُحركة الدمي ذات الألوان السبع</td>
-  <td>칠색의 인형사</td>
-</tr>
-<tr>
-  <td>66</td>
-  <td>Fine Arts</td>
-  <td>Bellas Artes</td>
-  <td>???</td>
-  <td>???</td>
-  <td>???</td>
-</tr>
-</table></b>
+## Alice Margatroid
+![AliceFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl03_ct00.png)
+
+| Pal Num. | Name of Color | Icon |
+|----------|---------------|-----------|
+| 01 | A Normal Puppeteer | ![AliceColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/001.png) |
+| 26 | Tamer of the Sea | ![AliceColor026](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/026.png) |
+| 37 | Dreaded Puppeteer | ![AliceColor037](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/037.png) |
+| 55 | Exterminator of all-life | ![AliceColor055](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/055.png) |
+| 64 | The Nuclear Union | ![AliceColor064](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/064.png) |
+| 65 | Seven-Colored Puppeteer | ![AliceColor065](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/065.png) |
+| 66 | Fine Arts | ![AliceColor066](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/066.png) |
