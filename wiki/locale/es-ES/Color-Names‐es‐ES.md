@@ -44,6 +44,7 @@
 | 02 | SinoAlice | ![AliceColor002](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/002.png) |
 | 03 | Los Ojos Azules de Alice | ![AliceColor003](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/003.png) |
 | 04 | Alice en su Vida Alternativa | ![AliceColor004](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/004.png) |
+| 05 | ¿Quién es está Alice? | ![AliceColor005](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/005.png) |
 | 26 | Domadora del Mar | ![AliceColor026](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/026.png) |
 | 37 | La Temida Titiritera | ![AliceColor037](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/037.png) |
 | 39 | Muñeca Araña | ![AliceColor039](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/039.png) |

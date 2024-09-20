@@ -43,7 +43,8 @@
 | 01 | ؟؟؟ | ![AliceColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/AR/001.png) |
 | 02 | ؟؟؟ | ![AliceColor002](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/AR/002.png) |
 | 03 | ؟؟؟ | ![AliceColor003](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/AR/003.png) |
-| 04 | ؟؟؟ | ![AliceColor003](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/AR/004.png) |
+| 04 | ؟؟؟ | ![AliceColor004](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/AR/004.png) |
+| 05 | ؟؟؟ | ![AliceColor005](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/AR/005.png) |
 | 26 | ؟؟؟ | ![AliceColor026](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/AR/026.png) |
 | 37 | ؟؟؟ | ![AliceColor037](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/AR/037.png) |
 | 39 | ؟؟؟ | ![AliceColor039](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/AR/039.png) |
