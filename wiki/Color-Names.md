@@ -42,6 +42,8 @@
 |----------|---------------|-----------|
 | 01 | A Normal Puppeteer | ![AliceColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/EN/001.png) |
 | 02 | SinoAlice | ![AliceColor002](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/EN/002.png) |
+| 03 | Alice's Blue Eyes | ![AliceColor003](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/EN/003.png) |
+| 04 | Alice in her Alternative Life | ![AliceColor004](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/EN/004.png) |
 | 26 | Tamer of the Sea | ![AliceColor026](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/EN/026.png) |
 | 37 | Dreaded Puppeteer | ![AliceColor037](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/EN/037.png) |
 | 39 | Spider-Doll | ![AliceColor039](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/EN/039.png) |
