@@ -47,6 +47,7 @@
 | 05 | ¿Quién es está Alice? | ![AliceColor005](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/005.png) |
 | 06 | Alice de Niña | ![AliceColor006](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/006.png) |
 | 07 | Alice del Cielo Rosado | ![AliceColor007](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/007.png) |
+| 08 | Alice del Cielo Escarlata | ![AliceColor008](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/008.png) |
 | 26 | Domadora del Mar | ![AliceColor026](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/026.png) |
 | 37 | La Temida Titiritera | ![AliceColor037](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/037.png) |
 | 39 | Muñeca Araña | ![AliceColor039](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/ES/039.png) |
