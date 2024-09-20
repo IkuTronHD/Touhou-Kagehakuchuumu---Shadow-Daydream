@@ -41,10 +41,12 @@
 | Pal Num. | Name of Color | Icon |
 |----------|---------------|-----------|
 | 01 | A Normal Puppeteer | ![AliceColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/EN/001.png) |
+| 02 | SinoAlice | ![AliceColor002](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/EN/002.png) |
 | 26 | Tamer of the Sea | ![AliceColor026](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/EN/026.png) |
 | 37 | Dreaded Puppeteer | ![AliceColor037](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/EN/037.png) |
 | 39 | Spider-Doll | ![AliceColor039](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/EN/039.png) |
 | 55 | Exterminator of all-life | ![AliceColor055](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/EN/055.png) |
+| 60 | Doll Crisis!! | ![AliceColor060](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/EN/060.png) |
 | 61 | The Bad Doll | ![AliceColor061](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/EN/061.png) |
 | 62 | The Girl Eats Dragons | ![AliceColor062](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/EN/062.png) |
 | 63 | Magical Girl | ![AliceColor063](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/EN/063.png) |
