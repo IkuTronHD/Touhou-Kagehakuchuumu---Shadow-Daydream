@@ -17,15 +17,16 @@
 
 | Num. de Pal | Nombre del Color | Icon |
 |----------|---------------|-----------|
-| 01 | Recuerdos de EoSD | ![MarisaColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/001.png) |
-| 07 | Retro Bruja | ![MarisaColor007](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/007.png) |
-| 44 | Michirin | ![MarisaColor044](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/044.png) |
-| 45 | La Ladrona de Oros | ![MarisaColor045](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/045.png) |
-| 46 | Amor Clásico | ![MarisaColor046](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/046.png) |
-| 47 | Orden del Alma | ![MarisaColor047](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/047.png) |
-| 48 | Roba Pelos | ![MarisaColor048](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/048.png) |
-| 49 | Fontanero con Memes 1 | ![MarisaColor049](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/049.png) |
-| 50 | Fontanero con Memes 2 | ![MarisaColor050](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/050.png) |
+| 01 | Recuerdos de EoSD | ![MarisaColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/ES/001.png) |
+| 07 | Retro Bruja | ![MarisaColor007](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/ES/007.png) |
+| 44 | Michirin | ![MarisaColor044](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/ES/044.png) |
+| 45 | La Ladrona de Oros | ![MarisaColor045](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/ES/045.png) |
+| 46 | Amor Clásico | ![MarisaColor046](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/ES/046.png) |
+| 47 | Orden del Alma | ![MarisaColor047](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/ES/047.png) |
+| 48 | Roba Pelos | ![MarisaColor048](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/ES/048.png) |
+| 49 | Fontanero con Memes 1 | ![MarisaColor049](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/ES/049.png) |
+| 50 | Fontanero con Memes 2 | ![MarisaColor050](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/ES/050.png) |
+| 51 | Fontanero con Memes 2 | ![MarisaColor051](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/ES/051.png) |
 
 ## Sakuya Izayoi
 ![SakuyaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl02a_ct01.png)

@@ -17,15 +17,16 @@
 
 | Pal Num. | Name of Color | Icon |
 |----------|---------------|-----------|
-| 01 | ؟؟؟ | ![MarisaColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/001.png) |
-| 07 | ؟؟؟ | ![MarisaColor007](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/007.png) |
-| 44 | ؟؟؟ | ![MarisaColor044](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/044.png) |
-| 45 | ؟؟؟ | ![MarisaColor045](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/045.png) |
-| 46 | ؟؟؟ | ![MarisaColor046](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/046.png) |
-| 47 | ؟؟؟ | ![MarisaColor047](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/047.png) |
-| 48 | ؟؟؟ | ![MarisaColor048](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/048.png) |
-| 49 | ؟؟؟ | ![MarisaColor049](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/049.png) |
-| 50 | ؟؟؟ | ![MarisaColor050](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/050.png) |
+| 01 | ؟؟؟ | ![MarisaColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/AR/001.png) |
+| 07 | ؟؟؟ | ![MarisaColor007](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/AR/007.png) |
+| 44 | ؟؟؟ | ![MarisaColor044](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/AR/044.png) |
+| 45 | ؟؟؟ | ![MarisaColor045](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/AR/045.png) |
+| 46 | ؟؟؟ | ![MarisaColor046](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/AR/046.png) |
+| 47 | ؟؟؟ | ![MarisaColor047](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/AR/047.png) |
+| 48 | ؟؟؟ | ![MarisaColor048](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/AR/048.png) |
+| 49 | ؟؟؟ | ![MarisaColor049](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/AR/049.png) |
+| 50 | ؟؟؟ | ![MarisaColor050](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/AR/050.png) |
+| 51 | ؟؟؟ | ![MarisaColor050](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/AR/051.png) |
 
 ## كونوهانا-ساكوياهيمي
 ![SakuyaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl02a_ct03.png)

@@ -26,6 +26,7 @@
 | 48 | ？？？ | ![MarisaColor048](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/048.png) |
 | 49 | ？？？ | ![MarisaColor049](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/049.png) |
 | 50 | ？？？ | ![MarisaColor050](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/050.png) |
+| 51 | ？？？ | ![MarisaColor051](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/051.png) |
 
 ## 十六夜　咲夜
 ![SakuyaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl02a_ct02.png)

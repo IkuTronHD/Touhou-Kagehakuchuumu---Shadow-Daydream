@@ -17,15 +17,16 @@
 
 | Pal Num. | Name of Color | Icon |
 |----------|---------------|-----------|
-| 01 | Memories of EoSD | ![MarisaColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/001.png) |
-| 07 | Retro Witch | ![MarisaColor007](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/007.png) |
-| 44 | Michirin | ![MarisaColor044](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/044.png) |
-| 45 | The Thief of Gold | ![MarisaColor045](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/045.png) |
-| 46 | Classic Love | ![MarisaColor046](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/046.png) |
-| 47 | Order of the Soul | ![MarisaColor047](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/047.png) |
-| 48 | Hair Stealer | ![MarisaColor048](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/048.png) |
-| 49 | Plumber with Memes 1 | ![MarisaColor049](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/049.png) |
-| 50 | Plumber with Memes 2 | ![MarisaColor050](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/050.png) |
+| 01 | Memories of EoSD | ![MarisaColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/EN/001.png) |
+| 07 | Retro Witch | ![MarisaColor007](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/EN/007.png) |
+| 44 | Michirin | ![MarisaColor044](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/EN/044.png) |
+| 45 | The Thief of Gold | ![MarisaColor045](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/EN/045.png) |
+| 46 | Classic Love | ![MarisaColor046](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/EN/046.png) |
+| 47 | Order of the Soul | ![MarisaColor047](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/EN/047.png) |
+| 48 | Hair Stealer | ![MarisaColor048](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/EN/048.png) |
+| 49 | Plumber with Memes 1 | ![MarisaColor049](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/EN/049.png) |
+| 50 | Plumber with Memes 2 | ![MarisaColor050](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/EN/050.png) |
+| 51 | Fontanero con Memes 2 | ![MarisaColor051](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/EN/051.png) |
 
 ## Sakuya Izayoi
 ![SakuyaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl02a_ct00.png)
