@@ -1,9 +1,9 @@
-# Name of Colors
+# 색상의 이름s
 
 ## 하쿠레이 레이무
 ![ReimuFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl00_ct04.png)
 
-| Pal Num. | Name of Color | Icon |
+| 팔레트 번호 | 색상의 이름 | 아이콘 |
 |----------|---------------|-----------|
 | 01 | ??? | ![ReimuColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/001.png) |
 | 07 | ??? | ![ReimuColor007](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/007.png) |
@@ -15,7 +15,7 @@
 ## 키리사메 마리사
 ![MarisaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl01_ct04.png)
 
-| Pal Num. | Name of Color | Icon |
+| 팔레트 번호 | 색상의 이름 | 아이콘 |
 |----------|---------------|-----------|
 | 01 | ??? | ![MarisaColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/001.png) |
 | 07 | ??? | ![MarisaColor007](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/007.png) |
@@ -31,7 +31,7 @@
 ## 이자요이 사쿠야
 ![SakuyaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl02a_ct04.png)
 
-| Pal Num. | Name of Color | IconA | IconB | IconC |
+| 팔레트 번호 | 색상의 이름 | 아이콘A | 아이콘B | 아이콘C |
 |----------|---------------|-----------|-----------|-----------|
 | 01 | ??? | ![SakuyaColor001A](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/001A.png) | ![SakuyaColor001B](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/001B.png) | ![SakuyaColor001C](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/001C.png) |
 | 23 | ??? | ![SakuyaColor023A](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/023A.png) | ![SakuyaColor023B](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/023B.png) | ![SakuyaColor023C](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/023C.png) |
@@ -39,7 +39,7 @@
 ## 앨리스 마가트로이드
 ![AliceFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl03_ct04.png)
 
-| Pal Num. | Name of Color | Icon |
+| 팔레트 번호 | 색상의 이름 | 아이콘 |
 |----------|---------------|-----------|
 | 01 | ??? | ![AliceColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/001.png) |
 | 02 | ??? | ![AliceColor002](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/002.png) |
