@@ -1,4 +1,4 @@
-# 색상의 이름s
+# 색상의 이름
 
 ## 하쿠레이 레이무
 ![ReimuFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl00_ct04.png)
