@@ -57,6 +57,6 @@
 | 61 | ??? | ![AliceColor061](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/KO/061.png) |
 | 62 | ??? | ![AliceColor062](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/KO/062.png) |
 | 63 | ??? | ![AliceColor063](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/KO/063.png) |
-| 64 | ??? | ![AliceColor064](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/KO/064.png) |
+| 64 | 핵 연합 | ![AliceColor064](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/KO/064.png) |
 | 65 | 칠색의 인형사 | ![AliceColor065](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/KO/065.png) |
 | 66 | 미술 | ![AliceColor066](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/KO/066.png) |
