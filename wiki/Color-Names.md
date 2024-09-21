@@ -33,8 +33,8 @@
 
 | Pal Num. | Name of Color | IconA | IconB | IconC |
 |----------|---------------|-----------|-----------|-----------|
-| 01 | Maid | ![SakuyaColor001A](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/001A.png) | ![SakuyaColor001B](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/001B.png) | ![SakuyaColor001C](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/001C.png) |
-| 23 | Dream Gatekeeper | ![SakuyaColor023A](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/023A.png) | ![SakuyaColor023B](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/023B.png) | ![SakuyaColor023C](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/023C.png) |
+| 01 | Maid | ![SakuyaColor001A](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/EN/001A.png) | ![SakuyaColor001B](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/EN/001B.png) | ![SakuyaColor001C](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/EN/001C.png) |
+| 23 | Dream Gatekeeper | ![SakuyaColor023A](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/EN/023A.png) | ![SakuyaColor023B](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/EN/023B.png) | ![SakuyaColor023C](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/EN/023C.png) |
 
 ## Alice Margatroid
 ![AliceFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl03_ct00.png)
