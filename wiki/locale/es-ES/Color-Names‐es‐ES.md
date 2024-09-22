@@ -26,7 +26,7 @@
 | 48 | Roba Pelos | ![MarisaColor048](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/ES/048.png) |
 | 49 | Fontanero con Memes 1 | ![MarisaColor049](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/ES/049.png) |
 | 50 | Fontanero con Memes 2 | ![MarisaColor050](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/ES/050.png) |
-| 51 | Fontanero con Memes 2 | ![MarisaColor051](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/ES/051.png) |
+| 51 | el Grimorio de Marisa | ![MarisaColor051](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/ES/051.png) |
 
 ## Sakuya Izayoi
 ![SakuyaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl02a_ct01.png)

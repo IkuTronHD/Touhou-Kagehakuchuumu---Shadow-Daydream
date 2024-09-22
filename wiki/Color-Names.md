@@ -26,7 +26,7 @@
 | 48 | Hair Stealer | ![MarisaColor048](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/EN/048.png) |
 | 49 | Plumber with Memes 1 | ![MarisaColor049](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/EN/049.png) |
 | 50 | Plumber with Memes 2 | ![MarisaColor050](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/EN/050.png) |
-| 51 | Fontanero con Memes 2 | ![MarisaColor051](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/EN/051.png) |
+| 51 | the Grimoire of Marisa | ![MarisaColor051](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/EN/051.png) |
 
 ## Sakuya Izayoi
 ![SakuyaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl02a_ct00.png)
