@@ -2,6 +2,6 @@
 
 ## Reimu's Spells
 
-| Card Icon | Name of Cards | Screenshot |
-|----------|---------------|-----------|
-| ![Card000](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/ReimuCards/spell01.png) | ![SC000](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/ReimuScreenshots/spell01.png){ width=50% } | Divine Spirit "Dream Seal" | A |
+| Image and Video | Name of Cards |
+|----------|---------------|
+| ![Card000](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/ReimuCards/spell01.png) <div>[![Card000](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FsZozchqgcTY)](https://youtu.be/sZozchqgcTY)</div> | Divine Spirit "Dream Seal" |
