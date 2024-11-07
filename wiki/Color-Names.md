@@ -12,6 +12,7 @@
 | 05 | Money Thief | ![ReimuColor005](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/005.png) |
 | 06 | Old Reimu | ![ReimuColor006](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/006.png) |
 | 07 | Retro Miko | ![ReimuColor007](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/007.png) |
+| 08 | Rakuren | ![ReimuColor008](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/008.png) |
 | 29 | Hero of Fire | ![ReimuColor029](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/029.png) |
 | 67 | The Statue That Moves | ![ReimuColor067](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/067.png) |
 | 68 | Eats Everything | ![ReimuColor068](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/068.png) |
