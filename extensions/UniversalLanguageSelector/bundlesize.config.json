@@ -1,0 +1,14 @@
+[
+	{
+		"resourceModule": "ext.uls.interlanguage",
+		"maxSize": "0.4 kB"
+	},
+	{
+		"resourceModule": "ext.uls.interface",
+		"maxSize": "6.1 kB"
+	},
+	{
+		"resourceModule": "ext.uls.pt",
+		"maxSize": "0.5 kB"
+	}
+]
