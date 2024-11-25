@@ -1,6 +1,6 @@
 **Wiki**
 
-* [Home](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Home‐ko‐KR)
+* [Home KO](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Home‐ko‐KR)
 
 **Languages**
 
@@ -9,8 +9,8 @@
 | [![ko-KR](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/Flag_ko.svg)](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Home‐ko‐KR) | [![ja-JP](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/Flag_jp.svg)](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Home‐ja‐JP) | --- |
 
 **Spells**
-* [Reimu's Spells](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Reimu-Spells‐ko‐KR)
+* [Reimu's Spells KO](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Reimu-Spells‐ko‐KR)
 
 **Other Misc.**
-* [Game Image](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Image-Translate‐ko‐KR)
+* [Game Image KO](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Image-Translate‐ko‐KR)
 * [색상의 이름](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Color-Names‐ko‐KR)
