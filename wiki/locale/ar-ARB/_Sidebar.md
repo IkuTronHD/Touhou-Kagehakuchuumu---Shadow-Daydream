@@ -9,8 +9,8 @@
 | [![ko-KR](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/Flag_ko.svg)](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Home‐ko‐KR) | [![ja-JP](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/Flag_jp.svg)](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Home‐ja‐JP) | --- |
 
 **Spells**
-* [Reimu's Spells](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/ReimuSpells‐ar‐ARB)
+* [Reimu's Spells](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/locale/ar-ARB/Reimu-Spells‐ar‐ARB)
 
 **Other Misc.**
-* [Game Image](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Image Translate‐ar‐ARB)
-* [Color Names](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Color Names‐ar‐ARB)
+* [Game Image](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/locale/ar-ARB/Image-Translate‐ar‐ARB)
+* [Color Names](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/locale/ar-ARB/Color-Names‐ar‐ARB)
