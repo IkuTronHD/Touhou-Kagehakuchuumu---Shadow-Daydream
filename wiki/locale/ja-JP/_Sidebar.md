@@ -12,4 +12,5 @@
 * [Reimu's Spells](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Reimu-Spells)
 
 **Other Misc.**
+* [Game Image](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Image-Translate‐ja‐JP)
 * [色の名前](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/wiki/Color-Names‐ja‐JP)
