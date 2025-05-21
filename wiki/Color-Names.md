@@ -19,7 +19,7 @@
 | 12 | Gensokyo 20XX | ![ReimuColor012](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/012.png) |
 | 13 | Green | ![ReimuColor013](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/013.png) |
 | 14 | Blue | ![ReimuColor014](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/014.png) |
-| 15 | Another Green | ![ReimuColor015](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/015.png) |
+| 15 | Alien | ![ReimuColor015](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/015.png) |
 | 16 | A Magenta Leaf | ![ReimuColor016](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/016.png) |
 | 17 | Luigi | ![ReimuColor017](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/013.png) |
 | 18 | Guile | ![ReimuColor018](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/013.png) |
