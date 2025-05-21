@@ -18,6 +18,13 @@
 | 11 | Brown | ![ReimuColor011](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/011.png) |
 | 12 | Gensokyo 20XX | ![ReimuColor012](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/012.png) |
 | 13 | Green | ![ReimuColor013](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/013.png) |
+| 14 | Blue | ![ReimuColor014](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/014.png) |
+| 15 | Another Green | ![ReimuColor015](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/015.png) |
+| 16 | A Magenta Leaf | ![ReimuColor016](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/016.png) |
+| 17 | Luigi | ![ReimuColor017](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/013.png) |
+| 18 | Guile | ![ReimuColor018](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/013.png) |
+| 19 | Son Goku | ![ReimuColor019](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/013.png) |
+| 20 | Neon Blue | ![ReimuColor020](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/013.png) |
 | 29 | Hero of Fire | ![ReimuColor029](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/029.png) |
 | 67 | The Statue That Moves | ![ReimuColor067](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/067.png) |
 | 68 | Eats Everything | ![ReimuColor068](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/068.png) |
