@@ -1,6 +1,6 @@
-Name: Gensokyo 20XX
+Name: Green
 Original Palette
-Num. of Pal: 12
-Nombre: Gensokyo 20XX
+Num. of Pal: 13
+Nombre: Verde
 Paleta Original
-Num. de Pal: 12
+Num. de Pal: 13

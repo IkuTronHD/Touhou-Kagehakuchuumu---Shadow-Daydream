@@ -17,6 +17,7 @@
 | 10 | Cold Reimu | ![ReimuColor010](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/010.png) |
 | 11 | Brown | ![ReimuColor011](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/011.png) |
 | 12 | Gensokyo 20XX | ![ReimuColor012](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/012.png) |
+| 13 | Green | ![ReimuColor013](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/013.png) |
 | 29 | Hero of Fire | ![ReimuColor029](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/029.png) |
 | 67 | The Statue That Moves | ![ReimuColor067](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/067.png) |
 | 68 | Eats Everything | ![ReimuColor068](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/068.png) |

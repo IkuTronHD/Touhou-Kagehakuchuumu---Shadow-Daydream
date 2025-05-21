@@ -17,6 +17,7 @@
 | 10 | ??? | ![ReimuColor010](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/KO/010.png) |
 | 11 | ??? | ![ReimuColor011](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/KO/011.png) |
 | 12 | ??? | ![ReimuColor012](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/KO/012.png) |
+| 13 | ??? | ![ReimuColor013](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/KO/013.png) |
 | 29 | ??? | ![ReimuColor029](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/KO/029.png) |
 | 67 | ??? | ![ReimuColor067](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/KO/067.png) |
 | 68 | ??? | ![ReimuColor068](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/KO/068.png) |
