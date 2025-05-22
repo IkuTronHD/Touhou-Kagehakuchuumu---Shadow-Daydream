@@ -1,6 +1,6 @@
-Name: Amulet Boom
-Based of Guile
-Num. of Pal: 18
-Nombre: Amuleto Boom
-Basada en Guile
-Num. de Pal: 18
+Name: I'm flying!
+Based of Goku
+Num. of Pal: 19
+Nombre: ¡Estoy volando!
+Basada en Son Goku
+Num. de Pal: 19
