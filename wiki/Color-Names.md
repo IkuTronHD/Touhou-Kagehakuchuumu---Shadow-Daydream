@@ -22,7 +22,7 @@
 | 15 | Alien | ![ReimuColor015](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/015.png) |
 | 16 | A Magenta Leaf | ![ReimuColor016](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/016.png) |
 | 17 | A Plumber with a Stick? | ![ReimuColor017](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/017.png) |
-| 18 | Guile | ![ReimuColor018](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/018.png) |
+| 18 | Amulet Boom | ![ReimuColor018](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/018.png) |
 | 19 | Son Goku | ![ReimuColor019](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/019.png) |
 | 20 | Neon Blue | ![ReimuColor020](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/020.png) |
 | 29 | Hero of Fire | ![ReimuColor029](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/029.png) |

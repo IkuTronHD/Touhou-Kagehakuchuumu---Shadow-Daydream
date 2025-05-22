@@ -1,6 +1,6 @@
-Name: A Plumber with a Stick?
-Based of Luigi (Mario Bros)
-Num. of Pal: 17
-Nombre: ¿Una Fontanera con un Palo?
-Basada en Luigi (Mario Bros)
-Num. de Pal: 17
+Name: Amulet Boom
+Based of Guile
+Num. of Pal: 18
+Nombre: Amuleto Boom
+Basada en Guile
+Num. de Pal: 18
