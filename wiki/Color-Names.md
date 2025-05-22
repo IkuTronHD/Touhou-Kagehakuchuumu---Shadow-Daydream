@@ -3,7 +3,7 @@
 ## Reimu Hakurei
 ![ReimuFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl00_ct00.png)
 
-| Pal Num. | Name of Color | Icon |
+| Pal Num. | Name of Color | Color |
 |----------|---------------|-----------|
 | 01 | Red | ![ReimuColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/001.png) |
 | 02 | Blue Reimu | ![ReimuColor002](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/002.png) |
@@ -33,7 +33,7 @@
 ## Marisa Kirisame
 ![MarisaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl01_ct00.png)
 
-| Pal Num. | Name of Color | Icon |
+| Pal Num. | Name of Color | Color |
 |----------|---------------|-----------|
 | 01 | Memories of EoSD | ![MarisaColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/EN/001.png) |
 | 07 | Retro Witch | ![MarisaColor007](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/EN/007.png) |
@@ -49,7 +49,7 @@
 ## Sakuya Izayoi
 ![SakuyaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl02a_ct00.png)
 
-| Pal Num. | Name of Color | IconA | IconB | IconC |
+| Pal Num. | Name of Color | Outfit A | Outfit B | Outfit C |
 |----------|---------------|-----------|-----------|-----------|
 | 01 | Maid | ![SakuyaColor001A](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/EN/001A.png) | ![SakuyaColor001B](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/EN/001B.png) | ![SakuyaColor001C](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/EN/001C.png) |
 | 23 | Dream Gatekeeper | ![SakuyaColor023A](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/EN/023A.png) | ![SakuyaColor023B](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/EN/023B.png) | ![SakuyaColor023C](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/EN/023C.png) |
@@ -57,7 +57,7 @@
 ## Alice Margatroid
 ![AliceFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl03_ct00.png)
 
-| Pal Num. | Name of Color | Icon |
+| Pal Num. | Name of Color | Color |
 |----------|---------------|-----------|
 | 01 | A Normal Puppeteer | ![AliceColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/EN/001.png) |
 | 02 | SinoAlice | ![AliceColor002](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/EN/002.png) |

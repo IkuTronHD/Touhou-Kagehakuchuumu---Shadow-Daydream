@@ -3,7 +3,7 @@
 ## 博麗　霊夢
 ![ReimuFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl00_ct02.png)
 
-| Pal Num. | Name of Color | Icon |
+| Pal Num. | Name of Color | Color |
 |----------|---------------|-----------|
 | 01 | ？？？ | ![ReimuColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/JA/001.png) |
 | 02 | ？？？ | ![ReimuColor002](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/JA/002.png) |
@@ -33,7 +33,7 @@
 ## 霧雨　魔理沙
 ![MarisaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl01_ct02.png)
 
-| Pal Num. | Name of Color | Icon |
+| Pal Num. | Name of Color | Color |
 |----------|---------------|-----------|
 | 01 | ？？？ | ![MarisaColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/JP/001.png) |
 | 07 | ？？？ | ![MarisaColor007](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Marisa/Colors/JP/007.png) |
@@ -49,7 +49,7 @@
 ## 十六夜　咲夜
 ![SakuyaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl02a_ct02.png)
 
-| Pal Num. | Name of Color | IconA | IconB | IconC |
+| Pal Num. | Name of Color | Outfit A | Outfit B | Outfit C |
 |----------|---------------|-----------|-----------|-----------|
 | 01 | ？？？ | ![SakuyaColor001A](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/JP/001A.png) | ![SakuyaColor001B](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/JP/001B.png) | ![SakuyaColor001C](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/JP/001C.png) |
 | 23 | ？？？ | ![SakuyaColor023A](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/JP/023A.png) | ![SakuyaColor023B](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/JP/023B.png) | ![SakuyaColor023C](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Sakuya/Colors/JP/023C.png) |
@@ -57,7 +57,7 @@
 ## アリス・マーガトロイド
 ![AliceFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl03_ct02.png)
 
-| Pal Num. | Name of Color | Icon |
+| Pal Num. | Name of Color | Color |
 |----------|---------------|-----------|
 | 01 | ？？？ | ![AliceColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/JP/001.png) |
 | 02 | ？？？ | ![AliceColor002](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Alice/Colors/JP/002.png) |
