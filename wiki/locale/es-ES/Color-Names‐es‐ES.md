@@ -21,7 +21,7 @@
 | 14 | Azul | ![ReimuColor014](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/014.png) |
 | 15 | Extraterrestre | ![ReimuColor015](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/015.png) |
 | 16 | Una Hoja Magenta | ![ReimuColor016](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/016.png) |
-| 17 | Luigi | ![ReimuColor017](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/017.png) |
+| 17 | ¿Una Fontanera con un Palo? | ![ReimuColor017](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/017.png) |
 | 18 | Guile | ![ReimuColor018](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/018.png) |
 | 19 | Son Goku | ![ReimuColor019](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/019.png) |
 | 20 | Azul Neón | ![ReimuColor020](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/020.png) |

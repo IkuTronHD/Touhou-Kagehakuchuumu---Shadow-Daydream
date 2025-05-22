@@ -1,6 +1,6 @@
-Name: Green
-Original Palette
-Num. of Pal: 13
-Nombre: Verde
-Paleta Original
-Num. de Pal: 13
+Name: A Plumber with a Stick?
+Based of Luigi (Mario Bros)
+Num. of Pal: 17
+Nombre: ¿Una Fontanera con un Palo?
+Basada en Luigi (Mario Bros)
+Num. de Pal: 17
