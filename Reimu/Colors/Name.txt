@@ -1,6 +1,6 @@
-Name: I'm flying!
-Based of Goku
-Num. of Pal: 19
-Nombre: ¡Estoy volando!
-Basada en Son Goku
-Num. de Pal: 19
+Name: Neon Blue
+Original Palette
+Num. of Pal: 20
+Nombre: Azul Neón
+Paleta Original
+Num. de Pal: 20
