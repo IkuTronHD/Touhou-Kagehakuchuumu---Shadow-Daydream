@@ -7,7 +7,7 @@
 |----------|---------------|-----------|
 | 01 | أحمر | ![ReimuColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/AR/001.png) |
 | 02 | ريمو زرقاء | ![ReimuColor002](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/AR/002.png) |
-| 03 | ؟؟؟ | ![ReimuColor003](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/AR/003.png) |
+| 03 | الإيمان الزائف  | ![ReimuColor003](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/AR/003.png) |
 | 04 | ؟؟؟ | ![ReimuColor004](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/AR/004.png) |
 | 05 | ؟؟؟ | ![ReimuColor005](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/AR/005.png) |
 | 06 | ؟؟؟ | ![ReimuColor006](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/AR/006.png) |
