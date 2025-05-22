@@ -1,6 +1,15 @@
-Name: Neon Blue
+Name: Neon Red
 Original Palette
-Num. of Pal: 20
-Nombre: Azul Neón
+Num. of Pal: 21
+
+Nombre: Rojo Neón
 Paleta Original
-Num. de Pal: 20
+Num. de Pal: 21
+
+Name: Scarlet Reimu
+Based of Ruby Rose (RWBY)
+Num. of Pal: 22
+
+Nombre: Reimu Escarlata
+Basada en Ruby Rose (RWBY)
+Num. de Pal: 22
