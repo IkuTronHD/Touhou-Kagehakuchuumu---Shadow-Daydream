@@ -27,6 +27,12 @@
 | 20 | Azul Neón | ![ReimuColor020](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/020.png) |
 | 21 | Rojo Neón | ![ReimuColor021](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/021.png) |
 | 22 | Reimu Escarlata | ![ReimuColor022](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/022.png) |
+| 23 | ??? | ![ReimuColor023](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/023.png) |
+| 24 | ??? | ![ReimuColor024](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/024.png) |
+| 25 | ??? | ![ReimuColor025](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/025.png) |
+| 26 | ??? | ![ReimuColor026](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/026.png) |
+| 27 | ??? | ![ReimuColor027](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/027.png) |
+| 28 | ??? | ![ReimuColor028](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/028.png) |
 | 29 | Héroe del Fuego | ![ReimuColor029](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/029.png) |
 | 67 | La Estatua Que Se Mueve | ![ReimuColor067](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/067.png) |
 | 68 | Lo Come Todo | ![ReimuColor068](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/068.png) |

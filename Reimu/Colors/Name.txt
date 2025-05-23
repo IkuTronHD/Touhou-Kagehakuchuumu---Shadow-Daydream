@@ -1,15 +1,47 @@
-Name: Neon Red
-Original Palette
-Num. of Pal: 21
+Name: -
+Based of Hyperdimesion: Neptune
+Num. of Pal: 23
 
-Nombre: Rojo Neón
-Paleta Original
-Num. de Pal: 21
+Nombre: -
+Basada en Hyperdimesion: Neptune
+Num. de Pal: 23
 
-Name: Scarlet Reimu
-Based of Ruby Rose (RWBY)
-Num. of Pal: 22
+Name: -
+Based of Kiki (Krita)
+Num. of Pal: 24
 
-Nombre: Reimu Escarlata
-Basada en Ruby Rose (RWBY)
-Num. de Pal: 22
+Nombre: -
+Basada en Kiki (Krita)
+Num. de Pal: 24
+
+Name: -
+Based of Cyra (OC: CrystalizedSun)
+Num. of Pal: 25
+
+Nombre: -
+Basada en Cyra (OC: CrystalizedSun)
+Num. de Pal: 25
+
+Name: -
+Based of Ceon (OC: CrystalizedSun)
+Num. of Pal: 26
+
+Nombre: -
+Basada en Ceon (OC: CrystalizedSun)
+Num. de Pal: 26
+
+Name: -
+Based of Yoshi
+Num. of Pal: 27
+
+Nombre: -
+Basada en Yoshi
+Num. de Pal: 27
+
+Name: -
+Based of Astolfo
+Num. of Pal: 28
+
+Nombre: -
+Basada en Astolfo
+Num. de Pal: 28

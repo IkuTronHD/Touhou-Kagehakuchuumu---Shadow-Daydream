@@ -27,6 +27,12 @@
 | 20 | ？？？ | ![ReimuColor020](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/JA/020.png) |
 | 21 | ？？？ | ![ReimuColor021](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/JA/021.png) |
 | 22 | ？？？ | ![ReimuColor022](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/JA/022.png) |
+| 23 | ？？？ | ![ReimuColor023](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/JA/023.png) |
+| 24 | ？？？ | ![ReimuColor024](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/JA/024.png) |
+| 25 | ？？？ | ![ReimuColor025](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/JA/025.png) |
+| 26 | ？？？ | ![ReimuColor026](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/JA/026.png) |
+| 27 | ？？？ | ![ReimuColor027](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/JA/027.png) |
+| 28 | ？？？ | ![ReimuColor028](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/JA/028.png) |
 | 29 | ？？？ | ![ReimuColor029](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/JA/029.png) |
 | 67 | ？？？ | ![ReimuColor067](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/JA/067.png) |
 | 68 | ？？？ | ![ReimuColor068](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/JA/068.png) |
