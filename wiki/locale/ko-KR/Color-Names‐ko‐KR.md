@@ -37,6 +37,7 @@
 | 67 | ??? | ![ReimuColor067](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/KO/067.png) |
 | 68 | ??? | ![ReimuColor068](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/KO/068.png) |
 | 69 | ??? | ![ReimuColor069](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/KO/069.png) |
+| 70 | ??? | ![ReimuColor070](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/KO/070.png) |
 
 ## 키리사메 마리사
 ![MarisaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl01_ct04.png)

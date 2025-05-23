@@ -37,6 +37,7 @@
 | 67 | The Statue That Moves | ![ReimuColor067](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/067.png) |
 | 68 | Eats Everything | ![ReimuColor068](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/068.png) |
 | 69 | Adhesive Ninja | ![ReimuColor069](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/069.png) |
+| 70 | The Research of the Pyramids | ![ReimuColor070](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/EN/070.png) |
 
 ## Marisa Kirisame
 ![MarisaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl01_ct00.png)
