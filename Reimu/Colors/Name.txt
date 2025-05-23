@@ -14,19 +14,11 @@ Nombre: -
 Basada en Kiki (Krita)
 Num. de Pal: 24
 
-Name: -
-Based of Cyra (OC: CrystalizedSun)
-Num. of Pal: 25
-
-Nombre: -
-Basada en Cyra (OC: CrystalizedSun)
-Num. de Pal: 25
-
-Name: -
+Name: Maple Hero of Fire
 Based of Ceon (OC: CrystalizedSun)
 Num. of Pal: 26
 
-Nombre: -
+Nombre: Héroe de Arce del Fuego
 Basada en Ceon (OC: CrystalizedSun)
 Num. de Pal: 26
 
