@@ -1,7 +1,7 @@
-Name: Is Another Twist Coming?
-Based of Sash Lilac (FP2)
-Num. of Pal: 31
+Name: Reimu is in your Sight
+Based of Ichigo
+Num. of Pal: 32
 
-Nombre: ¿Se Avecina Otro Giro?
-Basada en Sash Lilac (FP2)
-Num. de Pal: 31
+Nombre: Reimu está en tu Vista
+Basada en Ichigo
+Num. de Pal: 32
