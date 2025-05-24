@@ -1,7 +1,7 @@
-Name: Can a Spin be an Attack?
-Based of Sash Lilac (FP1)
-Num. of Pal: 30
+Name: Is Another Twist Coming?
+Based of Sash Lilac (FP2)
+Num. of Pal: 31
 
-Nombre: ¿Un Giro puede ser un Ataque?
-Basada en Sash Lilac (FP1)
-Num. de Pal: 30
+Nombre: ¿Se Avecina Otro Giro?
+Basada en Sash Lilac (FP2)
+Num. de Pal: 31
