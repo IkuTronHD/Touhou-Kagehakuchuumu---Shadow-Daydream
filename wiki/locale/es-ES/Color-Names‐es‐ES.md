@@ -34,6 +34,7 @@
 | 27 | La que Come Dinero | ![ReimuColor027](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/027.png) |
 | 28 | ¿Eso es un Gohei? | ![ReimuColor028](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/028.png) |
 | 29 | Héroe del Fuego | ![ReimuColor029](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/029.png) |
+| 30 | ¿Un Giro puede ser un Ataque? | ![ReimuColor030](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/030.png) |
 | 67 | La Estatua Que Se Mueve | ![ReimuColor067](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/067.png) |
 | 68 | Lo Come Todo | ![ReimuColor068](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/068.png) |
 | 69 | Ninja Adhesiva | ![ReimuColor069](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/ES/069.png) |

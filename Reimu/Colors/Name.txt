@@ -1,7 +1,7 @@
-Name: -
-Based of Hyperdimesion: Neptune
-Num. of Pal: 23
+Name: Can a Spin be an Attack?
+Based of Sash Lilac (FP1)
+Num. of Pal: 30
 
-Nombre: Reimu, que Viaja entre Dimensiones
-Basada en Hyperdimesion: Neptune
-Num. de Pal: 23
+Nombre: ¿Un Giro puede ser un Ataque?
+Basada en Sash Lilac (FP1)
+Num. de Pal: 30
