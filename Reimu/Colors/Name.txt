@@ -2,38 +2,6 @@ Name: -
 Based of Hyperdimesion: Neptune
 Num. of Pal: 23
 
-Nombre: -
+Nombre: Reimu, que Viaja entre Dimensiones
 Basada en Hyperdimesion: Neptune
 Num. de Pal: 23
-
-Name: -
-Based of Kiki (Krita)
-Num. of Pal: 24
-
-Nombre: -
-Basada en Kiki (Krita)
-Num. de Pal: 24
-
-Name: Maple Hero of Fire
-Based of Ceon (OC: CrystalizedSun)
-Num. of Pal: 26
-
-Nombre: Héroe de Arce del Fuego
-Basada en Ceon (OC: CrystalizedSun)
-Num. de Pal: 26
-
-Name: -
-Based of Yoshi
-Num. of Pal: 27
-
-Nombre: -
-Basada en Yoshi
-Num. de Pal: 27
-
-Name: -
-Based of Astolfo
-Num. of Pal: 28
-
-Nombre: -
-Basada en Astolfo
-Num. de Pal: 28
