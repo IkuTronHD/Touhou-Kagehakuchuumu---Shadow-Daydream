@@ -1,7 +1,7 @@
-Name: Reimu is in your Sight
-Based of God Rugal
+Name: Reimu are you Okey?
+Based of God Rugal (CVS2)
 Num. of Pal: 33
 
-Nombre: Reimu está en tu Vista
-Basada en God Rugal
+Nombre: ¿Reimu estás Bien?
+Basada en God Rugal (CVS2)
 Num. de Pal: 33
