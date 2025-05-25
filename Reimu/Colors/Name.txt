@@ -1,7 +1,7 @@
-Name: Reimu, the Hellcat
-Based of Rin Kaenbyou
-Num. of Pal: 52
+Name: Reimu, Destroys her Dolls
+Based of Alice Margatroid
+Num. of Pal: 35
 
-Nombre: Reimu, la Gata Infernal
-Basada en Rin Kaenbyou
-Num. de Pal: 52
+Nombre: Reimu, Destruye a sus Muñecas
+Basada en Alice Margatroid
+Num. de Pal: 35
