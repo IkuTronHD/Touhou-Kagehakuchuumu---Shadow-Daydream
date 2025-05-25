@@ -1,7 +1,7 @@
 Name: Reimu, Destroys her Dolls
-Based of Alice Margatroid
-Num. of Pal: 35
+Based of Kanaya Maryam
+Num. of Pal: 36
 
 Nombre: Reimu, Destruye a sus Muñecas
-Basada en Alice Margatroid
-Num. de Pal: 35
+Basada en Kanaya Maryam
+Num. de Pal: 36
