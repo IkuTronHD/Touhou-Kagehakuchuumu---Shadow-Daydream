@@ -1,7 +1,7 @@
-Name: Reimu are you Okey?
-Based of God Rugal (CVS2)
-Num. of Pal: 33
+Name: Reimu, the Hellcat
+Based of Rin Kaenbyou
+Num. of Pal: 52
 
-Nombre: ¿Reimu estás Bien?
-Basada en God Rugal (CVS2)
-Num. de Pal: 33
+Nombre: Reimu, la Gata Infernal
+Basada en Rin Kaenbyou
+Num. de Pal: 52
