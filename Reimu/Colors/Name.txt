@@ -5,3 +5,10 @@ Num. of Pal: 36
 Nombre: ¿Reimu Demoniaca?
 Basada en Kanaya Maryam
 Num. de Pal: 36
+
+Nome: A Investigação das Pirâmides
+Paleta Padrão
+Paleta Alternativa
+Basada en X
+Baseado em Nareko Michigami
+N° da Paleta: 70

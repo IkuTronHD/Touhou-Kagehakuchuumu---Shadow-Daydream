@@ -6,8 +6,8 @@
 | Pal Num. | Name of Color | Color |
 |----------|---------------|-----------|
 | 01 | Vermelho | ![ReimuColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/001.png) |
-| 02 | ？？？ | ![ReimuColor002](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/002.png) |
-| 03 | ？？？ | ![ReimuColor003](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/003.png) |
+| 02 | Reimu Azul | ![ReimuColor002](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/002.png) |
+| 03 | Falsa Fé | ![ReimuColor003](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/003.png) |
 | 04 | ？？？ | ![ReimuColor004](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/004.png) |
 | 05 | ？？？ | ![ReimuColor005](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/005.png) |
 | 06 | ？？？ | ![ReimuColor006](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/006.png) |
@@ -45,7 +45,7 @@
 | 67 | ？？？ | ![ReimuColor067](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/067.png) |
 | 68 | ？？？ | ![ReimuColor068](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/068.png) |
 | 69 | ？？？ | ![ReimuColor069](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/069.png) |
-| 70 | ？？？ | ![ReimuColor070](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/070.png) |
+| 70 | A Investigação das Pirâmides | ![ReimuColor070](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/070.png) |
 
 ## 霧雨　魔理沙
 ![MarisaFaces](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/img/Select/pl01_ct02.png)
