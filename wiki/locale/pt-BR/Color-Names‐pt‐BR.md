@@ -8,9 +8,9 @@
 | 01 | Vermelho | ![ReimuColor001](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/001.png) |
 | 02 | Reimu Azul | ![ReimuColor002](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/002.png) |
 | 03 | Falsa Fé | ![ReimuColor003](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/003.png) |
-| 04 | ？？？ | ![ReimuColor004](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/004.png) |
-| 05 | ？？？ | ![ReimuColor005](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/005.png) |
-| 06 | ？？？ | ![ReimuColor006](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/006.png) |
+| 04 | Reimu Clássica | ![ReimuColor004](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/004.png) |
+| 05 | Ladrão de Dinheiro | ![ReimuColor005](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/005.png) |
+| 06 | Velha Reimu | ![ReimuColor006](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/006.png) |
 | 07 | ？？？ | ![ReimuColor007](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/007.png) |
 | 08 | ？？？ | ![ReimuColor008](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/008.png) |
 | 09 | ？？？ | ![ReimuColor009](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/009.png) |
@@ -43,8 +43,8 @@
 | 36 | ？？？ | ![ReimuColor036](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/036.png) |
 | 52 | ？？？ | ![ReimuColor052](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/052.png) |
 | 67 | ？？？ | ![ReimuColor067](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/067.png) |
-| 68 | ？？？ | ![ReimuColor068](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/068.png) |
-| 69 | ？？？ | ![ReimuColor069](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/069.png) |
+| 68 | Come Tudo | ![ReimuColor068](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/068.png) |
+| 69 | Adesivo Ninja | ![ReimuColor069](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/069.png) |
 | 70 | A Investigação das Pirâmides | ![ReimuColor070](https://github.com/IkuTronHD/Touhou-Kagehakuchuumu---Shadow-Daydream/blob/main/Reimu/Colors/PTBR/070.png) |
 
 ## 霧雨　魔理沙

@@ -6,9 +6,10 @@ Nombre: ¿Reimu Demoniaca?
 Basada en Kanaya Maryam
 Num. de Pal: 36
 
-Nome: A Investigação das Pirâmides
+Nome: Velha Reimu
 Paleta Padrão
+Cor Normal
 Paleta Alternativa
-Basada en X
-Baseado em Nareko Michigami
-N° da Paleta: 70
+Baseado em X
+Baseado em Yukari Yakumo
+N° da Paleta: 06
