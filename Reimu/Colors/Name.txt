@@ -1,15 +1,15 @@
-Name: Demon Reimu?
-Based of Kanaya Maryam
-Num. of Pal: 36
+Name: GRAND MOM
+Based of GRAND MOM
+Num. of Pal: 37
 
-Nombre: ¿Reimu Demoniaca?
-Basada en Kanaya Maryam
-Num. de Pal: 36
+Nombre: GRAND MOM
+Basada en GRAND MOM
+Num. de Pal: 37
 
-Nome: Velha Reimu
+Nome: GRAND MOM
 Paleta Padrão
 Cor Normal
 Paleta Alternativa
 Baseado em X
-Baseado em Yukari Yakumo
-N° da Paleta: 06
+Baseado em GRAND MOM
+N° da Paleta: 37
