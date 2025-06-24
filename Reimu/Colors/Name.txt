@@ -2,9 +2,9 @@ Name: GRAND MOM
 Based of GRAND MOM
 Num. of Pal: 37
 
-Nombre: GRAND MOM
-Basada en GRAND MOM
-Num. de Pal: 37
+Nombre: Reimu Dorada
+Paleta Original
+Num. de Pal: 40
 
 Nome: GRAND MOM
 Paleta Padrão
