@@ -1,10 +1,10 @@
-Name: GRAND MOM
-Based of GRAND MOM
-Num. of Pal: 37
+Name: A Dream without End
+Based of Reimu CtC / Final Dream
+Num. of Pal: 41
 
-Nombre: Reimu Dorada
-Paleta Original
-Num. de Pal: 40
+Nombre: Un Sueño sin Fin
+Basada en Reimu CtC / Final Dream
+Num. de Pal: 41
 
 Nome: GRAND MOM
 Paleta Padrão
